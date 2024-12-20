@@ -1,5 +1,5 @@
 # Overview
-A curated list of awesome 3d denoising papers.
+A curated list of awesome 3D pointcloud denoising papers.
 
 For any suggestions, please contact garnungalejandro@gmail.com.
 
