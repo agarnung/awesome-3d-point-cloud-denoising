@@ -62,7 +62,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 ...
 
 # 2008
-...
+- [[Link]()] Title [][]
 
 # 2009
 ...
@@ -77,40 +77,76 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 ...
 
 # 2013
-...
+- [[Link]()] Title [][]
 
 # 2014
-...
+- [[Link]()] Title [][]
 
 # 2015
-...
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
 
 # 2016
 ...
 
 # 2017
-...
-
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+  
 # 2018
-...
-
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+  
 # 2019
-...
-
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+  
 # 2020
-...
-
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+  
 # 2021
-...
-
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+  
 # 2022
-...
+- [[Link]()] Title [][]
 
 # 2023
-...
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
 
 # 2024
-...
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
+- [[Link]()] Title [][]
 
 # 2025
 ...
