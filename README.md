@@ -9,3 +9,12 @@ CV's awesome list: https://github.com/jbhuang0604/awesome-computer-vision#readme
 How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main/contributing.md, https://github.com/sindresorhus/awesome/blob/main/create-list.md
 
 **Updated: 20/12/2024**
+
+<h2>Keywords</h2>
+`DL`: deep learning  |  `un.`:unsupervised
+
+<h1>Table of Contents</h1>
+
+- 2003
+- ...
+- 2024
