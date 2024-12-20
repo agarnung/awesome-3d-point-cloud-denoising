@@ -1,5 +1,5 @@
 # Overview
-A curated list of awesome 3D pointcloud denoising papers.
+A curated list of awesome 3D pointcloud denoising (and closely related fields) papers.
 
 For any suggestions, please contact garnungalejandro@gmail.com.
 
@@ -12,7 +12,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 <h2>Keywords</h2>
 
-`DL`: deep learning | `un.`: unsupervised | `oth.`: othetr
+`trad.`: traditional filter | `var.`: variational-based | `pde`: PDE-based | `spec.`: spectral-based | `dl`: deep learning | `un.`: unsupervised | `rec.`: resampling/compression | `sur.`: surface reconstruction  | `ne.`: normal estimation | `inp.`: inpainting | `res.`: super-resolution |  `oth.`: other 
 
 ## Gradations
 - 🔸 **Less than 25 citations**
