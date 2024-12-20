@@ -12,7 +12,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 <h2>Keywords</h2>
 
-`DL`: deep learning | `un.`: unsupervised
+`DL`: deep learning | `un.`: unsupervised | `oth.`: othetr
 
 ## Gradations
 - 🔸 **Less than 25 citations**
@@ -47,7 +47,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [2025](#2025)
 
 # 2003
-...
+- [[Link](https://graphics.stanford.edu/courses/cs468-03-fall/Papers/Levin_MovingLeastSquares.pdf)] Mesh-Independent Surface Interpolation MLS [link_to_code][`oth.`]
 
 # 2004
 ...
