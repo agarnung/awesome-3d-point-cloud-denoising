@@ -1,6 +1,8 @@
 # Overview
 A curated list of awesome 3D pointcloud denoising (and closely related fields) papers.
 
+This is a work in _continuous progress_.
+
 For any suggestions, please contact garnungalejandro@gmail.com.
 
 Thank you and enjoy the 3D pointcloud denoising world.
