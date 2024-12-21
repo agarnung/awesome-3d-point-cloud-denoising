@@ -42,7 +42,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 ...
 
 # 2008
-- [[Link]()] Title [][]
+- [[Link]()] Nonlocal discrete regularization on weighted graphs: A framework for image and manifold processing [][]
 
 # 2009
 ...
@@ -57,33 +57,33 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 ...
 
 # 2013
-- [[Link]()] Title [][]
+- [[Link]()] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
 
 # 2014
-- [[Link]()] Title [][]
+- [[Link]()] A General Framework for Bilateral and Mean Shift Filtering [][]
 
 # 2015
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
+- [[Link]()] The bilateral filter for point clouds [][]
+- [[Link]()] Graph-based denoising for time varying point clouds [][]
 
 # 2016
 ...
 
 # 2017
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
+- [[Link]()] Point Cloud Denoising via Moving RPCA [][]
+- [[Link]()] Data-Driven Sparse Priors of 3D Shapes [][]
   
 # 2018
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
+- [[Link]()] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation [][]
+- [[Link]()] Weighted Multi-projection: 3D Point Cloud Denoising with Estimated Tangent Planes [][]
+- [[Link]()] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics [][]
+- [[Link]()] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian [][]
   
 # 2019
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
+- [[Link]()] A 3D point cloud filtering method for leaves based on manifold distance and normal estimation [][]
+- [[Link]()] 3D Point Cloud Denoising via Deep Neural Network based Surface Estimation [][]
+- [[Link]()] 3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model [][]
+- [[Link]()] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds [][]
 - [[Link]()] Title [][]
 - [[Link]()] Title [][]
 - [[Link]()] Title [][]
