@@ -104,24 +104,23 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][]
   
 # 2021
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
+- [[Link]()] Score-Based Point Cloud Denoising [][]
+- [[Link]()] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [][]
+- [[Link]()] Mesh Total Generalized Variation for Denoising [][]
+- [[Link]()] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][]
+- [[Link]()] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][]
   
 # 2022
-- [[Link]()] Title [][]
-
+- [[Link]()] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
+- [[Link]()] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [][]
+- [[Link]()] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
+- 
 # 2023
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
+- [[Link]()] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [][]
+- [[Link]()] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds [][]
+- [[Link]()] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [][]
+- [[Link]()] IterativePFN: True Iterative Point Cloud Filtering [][]
+- [[Link]()] “Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity [][]
 
 # 2024
 - [[Link]()] Title [][]
