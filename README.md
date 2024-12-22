@@ -123,9 +123,9 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] “Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity [][]
 
 # 2024
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
-- [[Link]()] Title [][]
+- [[Link]()] Fast graph-based denoising point cloud color information [][]
+- [[Link]()] PathNet: Path-Selective Point Cloud Denoising, [][]
+- [[Link]()] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation [][]
 
 # 2025
 ...
