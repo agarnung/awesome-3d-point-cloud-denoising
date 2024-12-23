@@ -120,6 +120,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 # 2022
 - [[Link]()] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
 - [[Link]()] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
+- [[Link]()] TDNet: transformer-based network for point cloud denoising [][]
 - [[Link]()] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [][]
 - [[Link]()] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold [][]
 - [[Link]()] Optimization of point cloud preprocessing algorithm for equipped vehicles [][]
