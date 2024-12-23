@@ -65,6 +65,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2015
 - [[Link]()] The bilateral filter for point clouds [][]
+- [[Link]()] Adaptive Denoising Algorithm for Scanning Beam Points Based on Angle Thresholds [][]
 - [[Link]()] Graph-based denoising for time varying point clouds [][]
 
 # 2016
@@ -138,6 +139,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Three-Dimensional Point Cloud Denoising for Tunnel Data by Combining Intensity and Geometry Information [][]
 - [[Link]()] PathNet: Path-Selective Point Cloud Denoising [][]
 - [[Link]()] Denoising point clouds with fewer learnable parameters [][]
+- [[Link]()] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information [][]
 - [[Link]()] StraightPCF: Straight Point Cloud Filtering [][]
 - [[Link]()] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [][]
 - [[Link]()] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation [][]
