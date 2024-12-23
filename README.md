@@ -88,6 +88,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] A 3D Point Cloud Filtering Algorithm based on Surface Variation Factor Classification [][]
 - [[Link]()] Differentiable Surface Splatting for Point-based Geometry Processing [][]
 - [[Link]()] Low Rank Matrix Approximation for 3D Geometry Filtering [][]
+- [[Link]()] Method for Filtering Dense Noise from Laser Scanning Data [][]
 - [[Link]()] A novel anisotropic second order regularization for mesh denoising [][]
 - [[Link]()] Desnoising of 3D Point clouds  [][]
 - [[Link]()] Total denoising: Unsupervised learning of 3D point cloud cleaning [][]
