@@ -85,6 +85,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] 3D Point Cloud Denoising via Deep Neural Network based Surface Estimation [][]
 - [[Link]()] 3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model [][]
 - [[Link]()] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds [][]
+- [[Link]()] A Novel Denoising Algorithm for Airborne Lidar Point Cloud Based on Empirical Mode Decomposition [][]
 - [[Link]()] A 3D Point Cloud Filtering Algorithm based on Surface Variation Factor Classification [][]
 - [[Link]()] Differentiable Surface Splatting for Point-based Geometry Processing [][]
 - [[Link]()] Low Rank Matrix Approximation for 3D Geometry Filtering [][]
