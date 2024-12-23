@@ -55,6 +55,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2012
 - [[Link]()] Denoising point cloud [][]
+- [[Link]()] A New near Point Denoising Algorithm for Point Cloud [][]
 
 # 2013
 - [[Link]()] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
