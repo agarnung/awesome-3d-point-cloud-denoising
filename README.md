@@ -119,13 +119,15 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [][]
 - [[Link]()] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds [][]
 - [[Link]()] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [][]
-- [[Link]()] IterativePFN: True Iterative Point Cloud Filtering [][]
-- [[Link]()] “Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity [][]
+- [[Link]()] IterativePFN: True Iterative Point Cloud Filtering [][] 
+- [[Link]()] Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity [][]
 
 # 2024
 - [[Link]()] Fast graph-based denoising point cloud color information [][]
 - [[Link]()] PathNet: Path-Selective Point Cloud Denoising [][]
 - [[Link]()] Denoising point clouds with fewer learnable parameters [][]
+- [[Link]()] StraightPCF: Straight Point Cloud Filtering [][]
+- [[Link]()] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [][]
 - [[Link]()] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation [][]
 
 # 2025
