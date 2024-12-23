@@ -88,6 +88,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Differentiable Surface Splatting for Point-based Geometry Processing [][]
 - [[Link]()] Low Rank Matrix Approximation for 3D Geometry Filtering [][]
 - [[Link]()] A novel anisotropic second order regularization for mesh denoising [][]
+- [[Link]()] Desnoising of 3D Point clouds  [][]
 - [[Link]()] Total denoising: Unsupervised learning of 3D point cloud cleaning [][]
 - [[Link]()] 3D Point Cloud Color Denoising Using Convex Graph-Signal Smoothness Priors [][]
   
