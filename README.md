@@ -116,6 +116,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
 - [[Link]()] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
 - [[Link]()] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [][]
+- [[Link]()] Optimization of point cloud preprocessing algorithm for equipped vehicles [][]
 - [[Link]()] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
 - [[Link]()] A Method Based on Improved iForest for Trunk Extraction and Denoising of Individual Street Trees [][]
 
