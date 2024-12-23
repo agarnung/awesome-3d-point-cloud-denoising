@@ -118,6 +118,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 # 2023
 - [[Link]()] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [][]
 - [[Link]()] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds [][]
+- [[Link]()] Multiscale Feature Fusion for the Multistage Denoising of Airborne Single Photon LiDAR [][]
 - [[Link]()] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [][]
 - [[Link]()] IterativePFN: True Iterative Point Cloud Filtering [][] 
 - [[Link]()] Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity [][]
