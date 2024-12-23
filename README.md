@@ -116,6 +116,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Mesh Total Generalized Variation for Denoising [][]
 - [[Link]()] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][]
 - [[Link]()] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][]
+- [[Link]()] Point cloud denoising using non-local collaborative projections [][]
   
 # 2022
 - [[Link]()] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
