@@ -111,10 +111,12 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][]
   
 # 2022
+- [[Link]()] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
 - [[Link]()] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
 - [[Link]()] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [][]
 - [[Link]()] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
-- 
+- [[Link]()] A Method Based on Improved iForest for Trunk Extraction and Denoising of Individual Street Trees [][]
+
 # 2023
 - [[Link]()] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [][]
 - [[Link]()] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds [][]
