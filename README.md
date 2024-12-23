@@ -124,7 +124,8 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2024
 - [[Link]()] Fast graph-based denoising point cloud color information [][]
-- [[Link]()] PathNet: Path-Selective Point Cloud Denoising, [][]
+- [[Link]()] PathNet: Path-Selective Point Cloud Denoising [][]
+- [[Link]()] Denoising point clouds with fewer learnable parameters [][]
 - [[Link]()] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation [][]
 
 # 2025
