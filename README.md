@@ -45,7 +45,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Nonlocal discrete regularization on weighted graphs: A framework for image and manifold processing [][]
 
 # 2009
-...
+- [[Link]()] Noise reduction and modeling methods of TLS point cloud based on R-tree [][]
 
 # 2010
 - [[Link]()] Scatter Point Cloud Denoising Based on Self-Adaptive Optimal Neighborhood [][]
