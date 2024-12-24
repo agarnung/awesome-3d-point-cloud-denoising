@@ -71,7 +71,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Graph-based denoising for time varying point clouds [][]
 
 # 2016
-...
+- [[Link]()] Density-based Denoising of Point Cloud [][]
 
 # 2017
 - [[Link]()] Point Cloud Denoising via Moving RPCA [][]
