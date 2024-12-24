@@ -28,6 +28,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2003
 - [[Link](https://graphics.stanford.edu/courses/cs468-03-fall/Papers/Levin_MovingLeastSquares.pdf)] Mesh-Independent Surface Interpolation MLS [link_to_code][`oth.`]
+- [[Link]()] Non-Iterative, Feature-Preserving Mesh Smoothing [][]
 
 # 2004
 ...
