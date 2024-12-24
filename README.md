@@ -135,6 +135,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [][]
 - [[Link]()] IterativePFN: True Iterative Point Cloud Filtering [][] 
 - [[Link]()] Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity [][]
+- [[Link]()] 3D point cloud denoising method based on global feature guidance [][]
 
 # 2024
 - [[Link]()] Fast graph-based denoising point cloud color information [][]
