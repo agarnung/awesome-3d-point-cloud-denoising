@@ -128,6 +128,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
 - [[Link]()] TDNet: transformer-based network for point cloud denoising [][]
 - [[Link]()] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [][]
+- [[Link]()] Point cloud denoising algorithm with geometric feature preserving [][]
 - [[Link]()] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold [][]
 - [[Link]()] Optimization of point cloud preprocessing algorithm for equipped vehicles [][]
 - [[Link]()] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
