@@ -114,6 +114,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 # 2021
 - [[Link]()] Score-Based Point Cloud Denoising [][]
 - [[Link]()] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [][]
+- [[Link]()] VIPDA: A Visually Driven Point Cloud Denoising Algorithm Based on Anisotropic Point Cloud Filtering [][]
 - [[Link]()] Mesh Total Generalized Variation for Denoising [][]
 - [[Link]()] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][]
 - [[Link]()] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][]
