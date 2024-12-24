@@ -150,6 +150,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 # 2024
 - [[Link]()] Fast graph-based denoising point cloud color information [][]
 - [[Link]()] Three-Dimensional Point Cloud Denoising for Tunnel Data by Combining Intensity and Geometry Information [][]
+- [[Link]()] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification [][]
 - [[Link]()] PathNet: Path-Selective Point Cloud Denoising [][]
 - [[Link]()] Self-supervised multi-echo point cloud denoising in snowfall [][]
 - [[Link]()] Denoising point clouds with fewer learnable parameters [][]
