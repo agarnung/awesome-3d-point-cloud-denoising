@@ -103,6 +103,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Point Cloud Denoising via Feature Graph Laplacian Regularization [][]
 - [[Link]()] Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling [][]
 - [[Link]()] Non-Local Part-Aware Point Cloud Denoising [][]
+- [[Link]()] Research on denoising algorithm of 3D point cloud data based on curvature change [][]
 - [[Link]()] Point Cloud Denoising Algorithm Based on Noise Classification [][]
 - [[Link]()] A feature-preserving framework for point cloud denoising [][]
 - [[Link]()] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement [][]
