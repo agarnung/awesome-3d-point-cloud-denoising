@@ -64,6 +64,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2014
 - [[Link]()] A General Framework for Bilateral and Mean Shift Filtering [][]
+- [[Link]()] Research on 3D scanning point cloud de-nosing [][]
 
 # 2015
 - [[Link]()] The bilateral filter for point clouds [][]
