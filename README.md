@@ -144,6 +144,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information [][]
 - [[Link]()] StraightPCF: Straight Point Cloud Filtering [][]
 - [[Link]()] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [][]
+- [[Link]()] TPDNet: A point cloud data denoising method for offshore drilling platforms and its application [][]
 - [[Link]()] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation [][]
 
 # 2025
