@@ -46,6 +46,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2009
 - [[Link]()] Noise reduction and modeling methods of TLS point cloud based on R-tree [][]
+- [[Link]()] 3D Body Point Cloud Data Denoising and Registration [][]
 
 # 2010
 - [[Link]()] Scatter Point Cloud Denoising Based on Self-Adaptive Optimal Neighborhood [][]
