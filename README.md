@@ -76,6 +76,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2016
 - [[Link]()] Density-based Denoising of Point Cloud [][]
+- [[Link]()] Point Cloud Noise and Outlier Removal for Image-Based 3D Reconstruction [][]
 - [[Link]()] Robust Feature-Preserving Denoising of 3D Point Clouds [][]
 
 # 2017
