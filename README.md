@@ -70,6 +70,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 # 2015
 - [[Link]()] The bilateral filter for point clouds [][]
 - [[Link]()] Denoising Point Sets via L0 Minimization [][]
+- [[Link]()] 3D point cloud denoising and normal estimation for 3D surface reconstruction [][]
 - [[Link]()] Adaptive Denoising Algorithm for Scanning Beam Points Based on Angle Thresholds [][]
 - [[Link]()] Graph-based denoising for time varying point clouds [][]
 
