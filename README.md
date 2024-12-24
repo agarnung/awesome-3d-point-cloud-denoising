@@ -134,7 +134,9 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 
 # 2023
 - [[Link]()] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [][]
+- [[Link]()] Optimization of point cloud preprocessing algorithm for equipped vehicles [][]
 - [[Link]()] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds [][]
+- [[Link]()] Parameter optimization for point clouds denoising based on no-reference quality assessment [][]
 - [[Link]()] Multiscale Feature Fusion for the Multistage Denoising of Airborne Single Photon LiDAR [][]
 - [[Link]()] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [][]
 - [[Link]()] 3D point cloud global denoising algorithm based on different noise characteristics [][]
