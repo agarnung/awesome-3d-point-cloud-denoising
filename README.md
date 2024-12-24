@@ -136,6 +136,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds [][]
 - [[Link]()] Multiscale Feature Fusion for the Multistage Denoising of Airborne Single Photon LiDAR [][]
 - [[Link]()] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [][]
+- [[Link]()] 3D point cloud global denoising algorithm based on different noise characteristics [][]
 - [[Link]()] 3D point cloud denoising using anisotropic neighborhoods and a novel sharp feature detection algorithm [][] 
 - [[Link]()] IterativePFN: True Iterative Point Cloud Filtering [][] 
 - [[Link]()] Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity [][]
