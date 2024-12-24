@@ -153,6 +153,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Three-Dimensional Point Cloud Denoising for Tunnel Data by Combining Intensity and Geometry Information [][]
 - [[Link]()] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification [][]
 - [[Link]()] PathNet: Path-Selective Point Cloud Denoising [][]
+- [[Link]()] The implementation method of point cloud denoising filter based on KinectV2 [][]
 - [[Link]()] Self-supervised multi-echo point cloud denoising in snowfall [][]
 - [[Link]()] Denoising point clouds with fewer learnable parameters [][]
 - [[Link]()] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information [][]
