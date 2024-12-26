@@ -149,6 +149,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Parameter optimization for point clouds denoising based on no-reference quality assessment [][]
 - [[Link]()] Multiscale Feature Fusion for the Multistage Denoising of Airborne Single Photon LiDAR [][]
 - [[Link]()] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [][]
+- [[Link]()] Point Cloud Denoising via Momentum Ascent in Gradient Fields [][]
 - [[Link]()] 3D point cloud global denoising algorithm based on different noise characteristics [][]
 - [[Link]()] 3D point cloud denoising using anisotropic neighborhoods and a novel sharp feature detection algorithm [][] 
 - [[Link]()] IterativePFN: True Iterative Point Cloud Filtering [][] 
