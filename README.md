@@ -10,7 +10,7 @@ Thank you and enjoy the 3D pointcloud denoising world.
 CV's awesome list: https://github.com/jbhuang0604/awesome-computer-vision#readme
 How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main/contributing.md, https://github.com/sindresorhus/awesome/blob/main/create-list.md, https://github.com/Yochengliu/awesome-point-cloud-analysis?tab=readme-ov-file
 
-**Updated: 24/12/2024**
+**Updated: 29/12/2024**
 
 <h2>Keywords</h2>
 
@@ -125,6 +125,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [][]
 - [[Link]()] VIPDA: A Visually Driven Point Cloud Denoising Algorithm Based on Anisotropic Point Cloud Filtering [][]
 - [[Link]()] Mesh Total Generalized Variation for Denoising [][]
+- [[Link]()] PCA-Based Denoising Algorithm for Outdoor Lidar Point Cloud Data [][]
 - [[Link]()] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][]
 - [[Link]()] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][]
 - [[Link]()] Point cloud denoising using non-local collaborative projections [][]
