@@ -86,6 +86,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 # 2018
 - [[Link]()] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation [][]
 - [[Link]()] Weighted Multi-projection: 3D Point Cloud Denoising with Estimated Tangent Planes [][]
+- [[Link]()] Weighted Multi-projection: 3D Point Cloud Denoising with Tangent Planes [][]
 - [[Link]()] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics [][]
 - [[Link]()] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian [][]
   
