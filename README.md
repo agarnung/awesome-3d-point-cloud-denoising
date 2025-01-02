@@ -10,7 +10,7 @@ Thank you and enjoy the 3D pointcloud denoising world.
 CV's awesome list: https://github.com/jbhuang0604/awesome-computer-vision#readme
 How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main/contributing.md, https://github.com/sindresorhus/awesome/blob/main/create-list.md, https://github.com/Yochengliu/awesome-point-cloud-analysis?tab=readme-ov-file
 
-**Updated: 29/12/2024**
+**Updated: 02/01/2025**
 
 <h2>Keywords</h2>
 
@@ -54,7 +54,7 @@ How to create an awesome list: https://github.com/sindresorhus/awesome/blob/main
 - [[Link]()] Scatter Point Cloud Denoising Based on Self-Adaptive Optimal Neighborhood [][]
 
 # 2011
-...
+- [[Link]()] Nonlocal PDEs-Based Morphology on Weighted Graphs for Image and Data Processing [][]
 
 # 2012
 - [[Link]()] Denoising point cloud [][]
