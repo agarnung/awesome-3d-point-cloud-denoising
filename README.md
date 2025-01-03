@@ -1,5 +1,5 @@
 # Overview
-A curated list of awesome 3D pointcloud denoising (and closely related fields) papers.
+A curated list of awesome 3D point cloud denoising (and closely related fields) papers.
 
 This is a work in _continuous progress_.
 
