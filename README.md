@@ -102,20 +102,20 @@ Thank you and enjoy the 3D pointcloud denoising world.
 - [[Link](https://ieeexplore.ieee.org/document/8901695)] 3D Point Cloud Color Denoising Using Convex Graph-Signal Smoothness Priors [][] 🔹
   
 # 2020
-- [[Link](https://ieeexplore.ieee.org/document/9026751)] Feature Graph Learning for 3D Point Cloud Denoising [][]
-- [[Link](https://ieeexplore.ieee.org/document/8976421)] Point Cloud Denoising via Feature Graph Laplacian Regularization [][]
-- [[Link](https://arxiv.org/pdf/2002.05968)] Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling [][]
-- [[Link](https://arxiv.org/pdf/2003.06631)] Non-Local Part-Aware Point Cloud Denoising [][]
-- [[Link](https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072041/pdf)] Research on denoising algorithm of 3D point cloud data based on curvature change [][]
-- [[Link](https://www.computer.org/csdl/proceedings-article/iccst/2020/813800a123/1p1gtJQEUPC)] Point Cloud Denoising Algorithm Based on Noise Classification [][]
-- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300506)] A feature-preserving framework for point cloud denoising [][]
-- [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement [][]
-- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300531)] Deep feature-preserving normal estimation for point cloud filtering [][]
-- [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior [][]
-- [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising [][]
-- [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [][]
-- [[Link](https://arxiv.org/pdf/2111.02045)] Deep Point Set Resampling via Gradient Fields [][]
-- [[Link](https://ieeexplore.ieee.org/document/9472930)] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][]
+- [[Link](https://ieeexplore.ieee.org/document/9026751)] Feature Graph Learning for 3D Point Cloud Denoising [][] 🔥
+- [[Link](https://ieeexplore.ieee.org/document/8976421)] Point Cloud Denoising via Feature Graph Laplacian Regularization [][] 🔥
+- [[Link](https://arxiv.org/pdf/2002.05968)] Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling [][] 🔥
+- [[Link](https://arxiv.org/pdf/2003.06631)] Non-Local Part-Aware Point Cloud Denoising [][] 🔹
+- [[Link](https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072041/pdf)] Research on denoising algorithm of 3D point cloud data based on curvature change [][] 🔹
+- [[Link](https://www.computer.org/csdl/proceedings-article/iccst/2020/813800a123/1p1gtJQEUPC)] Point Cloud Denoising Algorithm Based on Noise Classification [][] 🔹
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300506)] A feature-preserving framework for point cloud denoising [][] 🔹
+- [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement [][] 🔹
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300531)] Deep feature-preserving normal estimation for point cloud filtering [][] 🔥
+- [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior [][] 🔹
+- [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising [][] 🔥
+- [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [][] 🔥
+- [[Link](https://arxiv.org/pdf/2111.02045)] Deep Point Set Resampling via Gradient Fields [][] 🔸
+- [[Link](https://ieeexplore.ieee.org/document/9472930)] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][] 🔸
   
 # 2021
 - [[Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Score-Based_Point_Cloud_Denoising_ICCV_2021_paper.pdf)] Score-Based Point Cloud Denoising [][]
