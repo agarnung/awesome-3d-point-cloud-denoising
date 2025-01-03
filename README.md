@@ -5,7 +5,7 @@ This is a work in _continuous progress_.
 
 For any suggestions, please contact garnungalejandro@gmail.com.
 
-Thank you and enjoy the 3D pointcloud denoising world.
+Thank you and enjoy the 3D point cloud denoising world.
 
 **Updated: 02/01/2025**
 
