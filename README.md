@@ -14,8 +14,8 @@ Thank you and enjoy the 3D pointcloud denoising world.
 `trad.`: traditional filter | `var.`: variational-based | `pde`: PDE-based | `spec.`: spectral-based | `dl`: deep learning | `un.`: unsupervised | `rec.`: resampling/compression | `sur.`: surface reconstruction  | `ne.`: normal estimation | `inp.`: inpainting | `res.`: super-resolution |  `oth.`: other 
 
 ## Gradations
-- 🔸 **Less than 25 citations**
-- 🔹 **Between 25 and 50 citations**
+- 🔹 **Less than 25 citations**
+- 🔸 **Between 25 and 50 citations**
 - 🔥 **More than 50 citations**
 - 🌟 **More than 150 citations**
 
@@ -131,7 +131,7 @@ Thank you and enjoy the 3D pointcloud denoising world.
 - [[Link](https://www.mdpi.com/2072-4292/14/2/367)] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
 - [[Link](https://arxiv.org/pdf/2210.15913)] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
 - [[Link](https://caoxin918.github.io/files/%E5%BE%90%E9%9B%AA%E4%B8%BDAO.pdf)] TDNet: transformer-based network for point cloud denoising [][]
-- [[Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630392.pdf)] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [[code](https://github.com/unknownue/pdflow)][`dl`]
+- [[Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630392.pdf)] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [[code](https://github.com/unknownue/pdflow)][`dl`] 🔹
 - [[Link](https://link.springer.com/article/10.1007/s00530-022-00936-4)] Point cloud denoising algorithm with geometric feature preserving [][]
 - [[Link](https://www.mdpi.com/1424-8220/22/7/2666)] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold [][]
 - [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles [][]
