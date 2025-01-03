@@ -24,8 +24,8 @@ Thank you and enjoy the 3D pointcloud denoising world.
 [2003](#2003), [2004](#2004), [2005](#2005), [2006](#2006), [2007](#2007), [2008](#2008), [2009](#2009), [2010](#2010), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2016](#2016), [2017](#2017), [2018](#2018), [2019](#2019), [2020](#2020), [2021](#2021), [2022](#2022), [2023](#2023), [2024](#2024), [2025](#2025)
 
 # 2003
-- [[Link](https://graphics.stanford.edu/courses/cs468-03-fall/Papers/Levin_MovingLeastSquares.pdf)] Mesh-Independent Surface Interpolation MLS [code][`oth.`]
-- [[Link](https://people.csail.mit.edu/thouis/JDD03.pdf)] Non-Iterative, Feature-Preserving Mesh Smoothing [][]
+- [[Link](https://graphics.stanford.edu/courses/cs468-03-fall/Papers/Levin_MovingLeastSquares.pdf)] Mesh-Independent Surface Interpolation MLS [code][`oth.`] 🌟
+- [[Link](https://people.csail.mit.edu/thouis/JDD03.pdf)] Non-Iterative, Feature-Preserving Mesh Smoothing [][] 🌟
 
 # 2004
 ...
@@ -34,57 +34,57 @@ Thank you and enjoy the 3D pointcloud denoising world.
 ...
 
 # 2006
-- [[Link](https://www.scitepress.org/papers/2006/13589/13589.pdf)] Point cloud denoising using robust principal component analysis [][]
+- [[Link](https://www.scitepress.org/papers/2006/13589/13589.pdf)] Point cloud denoising using robust principal component analysis [][] 🔸
 
 # 2007
 ...
 
 # 2008
-- [[Link](https://lezoray.users.greyc.fr/Publis/IEEE_IP_2008.pdf)] Nonlocal discrete regularization on weighted graphs: A framework for image and manifold processing [][]
+- [[Link](https://lezoray.users.greyc.fr/Publis/IEEE_IP_2008.pdf)] Nonlocal discrete regularization on weighted graphs: A framework for image and manifold processing [][] 🌟
 
 # 2009
-- [[Link](https://ieeexplore.ieee.org/document/5137578)] Noise reduction and modeling methods of TLS point cloud based on R-tree [][]
-- [[Link](https://ieeexplore.ieee.org/document/5402768)] Algorithm for 3D Point Cloud Denoising [][]
-- [[Link](https://ieeexplore.ieee.org/document/5287748)] 3D Body Point Cloud Data Denoising and Registration [][]
+- [[Link](https://ieeexplore.ieee.org/document/5137578)] Noise reduction and modeling methods of TLS point cloud based on R-tree [][] 🔹
+- [[Link](https://ieeexplore.ieee.org/document/5402768)] Algorithm for 3D Point Cloud Denoising [][] 🔹
+- [[Link](https://ieeexplore.ieee.org/document/5287748)] 3D Body Point Cloud Data Denoising and Registration [][] 🔹
 
 # 2010
-- [[Link](https://www.scientific.net/AMR.97-101.3631)] Scatter Point Cloud Denoising Based on Self-Adaptive Optimal Neighborhood [][]
+- [[Link](https://www.scientific.net/AMR.97-101.3631)] Scatter Point Cloud Denoising Based on Self-Adaptive Optimal Neighborhood [][] 🔹
 
 # 2011
-- [[Link](https://chpc.greyc.fr/images/Documents/Publications/2011_06_Nonlocal_PDEs-Based_Morphology_on_Weighted_Graphs_for_Image_and_Data_Processing.pdf)] Nonlocal PDEs-Based Morphology on Weighted Graphs for Image and Data Processing [][]
+- [[Link](https://chpc.greyc.fr/images/Documents/Publications/2011_06_Nonlocal_PDEs-Based_Morphology_on_Weighted_Graphs_for_Image_and_Data_Processing.pdf)] Nonlocal PDEs-Based Morphology on Weighted Graphs for Image and Data Processing [][] 🔥
 
 # 2012
-- [[Link](https://www.tandfonline.com/doi/epdf/10.1080/17415977.2011.603087?needAccess=true)] Denoising point cloud [][]
-- [[Link](https://www.scientific.net/AMR.479-481.2152)] A New near Point Denoising Algorithm for Point Cloud [][]
+- [[Link](https://www.tandfonline.com/doi/epdf/10.1080/17415977.2011.603087?needAccess=true)] Denoising point cloud [][] 🔹
+- [[Link](https://www.scientific.net/AMR.479-481.2152)] A New near Point Denoising Algorithm for Point Cloud [][] 🔹
 
 # 2013
-- [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
+- [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][] 🔹
 
 # 2014
-- [[Link](https://people.csail.mit.edu/jsolomon/assets/MeshBilateral.pdf)] A General Framework for Bilateral and Mean Shift Filtering [][]
-- [[Link](https://ieeexplore.ieee.org/abstract/document/7009913)] Research on 3D scanning point cloud de-nosing [][]
+- [[Link](https://people.csail.mit.edu/jsolomon/assets/MeshBilateral.pdf)] A General Framework for Bilateral and Mean Shift Filtering [][] 🔸
+- [[Link](https://ieeexplore.ieee.org/abstract/document/7009913)] Research on 3D scanning point cloud de-nosing [][] 🔹
 
 # 2015
-- [[Link](https://www.ipol.im/pub/art/2017/179/revisions/2022-01-01/article.pdf)] The bilateral filter for point clouds [][]
-- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839615000345)] Denoising Point Sets via L0 Minimization [][]
-- [[Link](https://ieeexplore.ieee.org/document/7418871)] 3D point cloud denoising and normal estimation for 3D surface reconstruction [][]
-- [[Link](https://www.scientific.net/AMM.741.204)] Adaptive Denoising Algorithm for Scanning Beam Points Based on Angle Thresholds [][]
-- [[Link](https://arxiv.org/pdf/1511.04902)] Graph-based denoising for time varying point clouds [][]
+- [[Link](https://www.ipol.im/pub/art/2017/179/revisions/2022-01-01/article.pdf)] The bilateral filter for point clouds [][] 🔥
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839615000345)] Denoising Point Sets via L0 Minimization [][] 🌟
+- [[Link](https://ieeexplore.ieee.org/document/7418871)] 3D point cloud denoising and normal estimation for 3D surface reconstruction [][] 🔹
+- [[Link](https://www.scientific.net/AMM.741.204)] Adaptive Denoising Algorithm for Scanning Beam Points Based on Angle Thresholds [][] 🔹
+- [[Link](https://arxiv.org/pdf/1511.04902)] Graph-based denoising for time varying point clouds [][] 🔥
 
 # 2016
-- [[Link](https://arxiv.org/pdf/1602.05312)] Density-based Denoising of Point Cloud [][]
-- [[Link](https://ieeexplore.ieee.org/document/7785084)] Point Cloud Noise and Outlier Removal for Image-Based 3D Reconstruction [][]
-- [[Link](https://ee.iisc.ac.in/cvlab/papers/haque2016robden.pdf)] Robust Feature-Preserving Denoising of 3D Point Clouds [][]
+- [[Link](https://arxiv.org/pdf/1602.05312)] Density-based Denoising of Point Cloud [][] 🔸
+- [[Link](https://ieeexplore.ieee.org/document/7785084)] Point Cloud Noise and Outlier Removal for Image-Based 3D Reconstruction [][] 🔥
+- [[Link](https://ee.iisc.ac.in/cvlab/papers/haque2016robden.pdf)] Robust Feature-Preserving Denoising of 3D Point Clouds [][] 🔹
 
 # 2017
-- [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13068)] Point Cloud Denoising via Moving RPCA [][]
-- [[Link](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13272)] Data-Driven Sparse Priors of 3D Shapes [][]
+- [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13068)] Point Cloud Denoising via Moving RPCA [][] 🔥
+- [[Link](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13272)] Data-Driven Sparse Priors of 3D Shapes [][] 🔹
   
 # 2018
-- [[Link](https://arxiv.org/pdf/1804.10831)] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation [][]
-- [[Link](https://arxiv.org/pdf/1807.00253)] Weighted Multi-projection: 3D Point Cloud Denoising with Estimated Tangent Planes [][]
-- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849318300797)] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics [][]
-- [[Link](https://arxiv.org/pdf/1812.07711)] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian [][]
+- [[Link](https://arxiv.org/pdf/1804.10831)] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation [][] 🔹
+- [[Link](https://arxiv.org/pdf/1807.00253)] Weighted Multi-projection: 3D Point Cloud Denoising with Estimated Tangent Planes [][] 🔹
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849318300797)] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics [][] 🔸
+- [[Link](https://arxiv.org/pdf/1812.07711)] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian [][] 🔹
   
 # 2019
 - [[Link](https://www.mdpi.com/2072-4292/11/2/198)] A 3D point cloud filtering method for leaves based on manifold distance and normal estimation [][]
