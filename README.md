@@ -118,14 +118,14 @@ Thank you and enjoy the 3D pointcloud denoising world.
 - [[Link](https://ieeexplore.ieee.org/document/9472930)] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][] 🔸
   
 # 2021
-- [[Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Score-Based_Point_Cloud_Denoising_ICCV_2021_paper.pdf)] Score-Based Point Cloud Denoising [][]
-- [[Link](https://link.springer.com/article/10.1007/s11263-021-01564-7)] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [][]
-- [[Link](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2022.842570/full)] VIPDA: A Visually Driven Point Cloud Denoising Algorithm Based on Anisotropic Point Cloud Filtering [][]
-- [[Link](https://arxiv.org/pdf/2101.02322)] Mesh Total Generalized Variation for Denoising [][]
-- [[Link](https://www.mdpi.com/1424-8220/21/11/3703?https://susy.mdpi.com/&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOkK_otZ43ufvO6Hu8fxvQGBWk5pM4ZK54YxdwhDntGlqbAJJBCE-GQaAlkgEALw_wcB)] PCA-Based Denoising Algorithm for Outdoor Lidar Point Cloud Data [][]
-- [[Link](https://webpages.tuni.fi/foi/papers/Anisotropic_Denoising_of_3D_Point_Clouds_by_Aggregation_of_Multiple_Surface_Adaptive_Estimates-prepress.pdf)] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][]
-- [[Link](https://ieeexplore.ieee.org/document/9334993)] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][]
-- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320321003150)] Point cloud denoising using non-local collaborative projections [][]
+- [[Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Score-Based_Point_Cloud_Denoising_ICCV_2021_paper.pdf)] Score-Based Point Cloud Denoising [][] 🔥
+- [[Link](https://link.springer.com/article/10.1007/s11263-021-01564-7)] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [][] 🔸
+- [[Link](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2022.842570/full)] VIPDA: A Visually Driven Point Cloud Denoising Algorithm Based on Anisotropic Point Cloud Filtering [][] 🔹
+- [[Link](https://arxiv.org/pdf/2101.02322)] Mesh Total Generalized Variation for Denoising [][] 🔹
+- [[Link](https://www.mdpi.com/1424-8220/21/11/3703?https://susy.mdpi.com/&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOkK_otZ43ufvO6Hu8fxvQGBWk5pM4ZK54YxdwhDntGlqbAJJBCE-GQaAlkgEALw_wcB)] PCA-Based Denoising Algorithm for Outdoor Lidar Point Cloud Data [][] 🔹
+- [[Link](https://webpages.tuni.fi/foi/papers/Anisotropic_Denoising_of_3D_Point_Clouds_by_Aggregation_of_Multiple_Surface_Adaptive_Estimates-prepress.pdf)] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][] 🔹
+- [[Link](https://ieeexplore.ieee.org/document/9334993)] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][] 🔹
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320321003150)] Point cloud denoising using non-local collaborative projections [][] 🔹
   
 # 2022
 - [[Link](https://www.mdpi.com/2072-4292/14/2/367)] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
