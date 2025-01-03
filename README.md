@@ -172,7 +172,6 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://arxiv.org/pdf/2408.13802)] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [[code](https://github.com/Grandzxw/TripleMixer) ◼️
 - [[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud [[code](https://github.com/matvogel/P2P-Bridge)] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0263224124015562)] TPDNet: A point cloud data denoising method for offshore drilling platforms and its application ◼️
-- [[Link](https://www.mdpi.com/2072-4292/16/13/2347)] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation ◼️
 
 # 2025
 ...
