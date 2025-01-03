@@ -128,15 +128,15 @@ Thank you and enjoy the 3D pointcloud denoising world.
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320321003150)] Point cloud denoising using non-local collaborative projections [][]
   
 # 2022
-- [[Link]()] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
-- [[Link]()] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
-- [[Link]()] TDNet: transformer-based network for point cloud denoising [][]
-- [[Link]()] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [][]
-- [[Link]()] Point cloud denoising algorithm with geometric feature preserving [][]
-- [[Link]()] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold [][]
-- [[Link]()] Optimization of point cloud preprocessing algorithm for equipped vehicles [][]
-- [[Link]()] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
-- [[Link]()] A Method Based on Improved iForest for Trunk Extraction and Denoising of Individual Street Trees [][]
+- [[Link](https://www.mdpi.com/2072-4292/14/2/367)] Single-Stage Adaptive Multi-Scale Point Cloud Noise Filtering Algorithm Based on Feature Information [][]
+- [[Link](https://arxiv.org/pdf/2210.15913)] GeoGCN: Geometric Dual-domain Graph Convolution Network for Point Cloud Denoising [][]
+- [[Link](https://caoxin918.github.io/files/%E5%BE%90%E9%9B%AA%E4%B8%BDAO.pdf)] TDNet: transformer-based network for point cloud denoising [][]
+- [[Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630392.pdf)] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [][]
+- [[Link](https://link.springer.com/article/10.1007/s00530-022-00936-4)] Point cloud denoising algorithm with geometric feature preserving [][]
+- [[Link](https://www.mdpi.com/1424-8220/22/7/2666)] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold [][]
+- [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles [][]
+- [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][]
+- [[Link](https://www.mdpi.com/2072-4292/15/1/115)] A Method Based on Improved iForest for Trunk Extraction and Denoising of Individual Street Trees [][]
 
 # 2023
 - [[Link]()] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [][]
