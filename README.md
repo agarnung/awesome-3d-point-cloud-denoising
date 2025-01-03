@@ -79,6 +79,7 @@ Thank you and enjoy the 3D pointcloud denoising world.
 
 # 2017
 - [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13068)] Point Cloud Denoising via Moving RPCA [][] 🔥
+- [[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering [[code](https://github.com/aipiano/guided-filter-point-cloud-denoise)][] 🔸
 - [[Link](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13272)] Data-Driven Sparse Priors of 3D Shapes [][] 🔹
   
 # 2018
