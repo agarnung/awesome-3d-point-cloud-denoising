@@ -155,19 +155,19 @@ Thank you and enjoy the 3D pointcloud denoising world.
 - [[Link](https://link.springer.com/article/10.1007/s00371-023-03158-5)] 3D point cloud denoising method based on global feature guidance [][]
 
 # 2024
-- [[Link]()] Fast graph-based denoising point cloud color information [][]
-- [[Link]()] Three-Dimensional Point Cloud Denoising for Tunnel Data by Combining Intensity and Geometry Information [][]
-- [[Link]()] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification [][]
-- [[Link]()] PathNet: Path-Selective Point Cloud Denoising [][]
-- [[Link]()] The implementation method of point cloud denoising filter based on KinectV2 [][]
-- [[Link]()] Self-supervised multi-echo point cloud denoising in snowfall [][]
-- [[Link]()] Denoising point clouds with fewer learnable parameters [][]
-- [[Link]()] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information [][]
-- [[Link]()] StraightPCF: Straight Point Cloud Filtering [][]
-- [[Link]()] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [][]
-- [[Link]()] P2P-Bridge Diffusion Bridges for 3D Point Cloud [][]
-- [[Link]()] TPDNet: A point cloud data denoising method for offshore drilling platforms and its application [][]
-- [[Link]()] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation [][]
+- [[Link](https://arxiv.org/pdf/2401.09721)] Fast graph-based denoising point cloud color information [][]
+- [[Link](https://www.mdpi.com/2071-1050/16/5/2077)] Three-Dimensional Point Cloud Denoising for Tunnel Data by Combining Intensity and Geometry Information [][]
+- [[Link](https://arxiv.org/pdf/2307.10875)] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification [][]
+- [[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising [][]
+- [[Link](https://www.researchgate.net/publication/382355164_The_implementation_method_of_point_cloud_denoising_filter_based_on_KinectV2/fulltext/6699306c02e9686cd10d945b/The-implementation-method-of-point-cloud-denoising-filter-based-on-KinectV2.pdf)] The implementation method of point cloud denoising filter based on KinectV2 [][]
+- [[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall [][]
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000356)] Denoising point clouds with fewer learnable parameters [][]
+- [[Link](https://www.mdpi.com/2072-4292/16/15/2714)] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information [][]
+- [[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering [][]
+- [[Link](https://arxiv.org/pdf/2408.13802)] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [][]
+- [[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud [][]
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0263224124015562)] TPDNet: A point cloud data denoising method for offshore drilling platforms and its application [][]
+- [[Link](https://www.mdpi.com/2072-4292/16/13/2347)] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation [][]
 
 # 2025
 ...
