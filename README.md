@@ -74,7 +74,7 @@ Thank you and enjoy the 3D pointcloud denoising world.
 
 # 2016
 - [[Link](https://arxiv.org/pdf/1602.05312)] Density-based Denoising of Point Cloud [][] 🔸
-- [[Link](https://dl.acm.org/doi/10.1145/2980179.2980232)] Mesh Denoising via Cascaded Normal Regression [][]
+- [[Link](https://dl.acm.org/doi/10.1145/2980179.2980232)] Mesh Denoising via Cascaded Normal Regression [][] `mesh.`
 - [[Link](https://ieeexplore.ieee.org/document/7785084)] Point Cloud Noise and Outlier Removal for Image-Based 3D Reconstruction [][] 🔥
 - [[Link](https://ee.iisc.ac.in/cvlab/papers/haque2016robden.pdf)] Robust Feature-Preserving Denoising of 3D Point Clouds [][] 🔹
 
