@@ -138,6 +138,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://caoxin918.github.io/files/%E5%BE%90%E9%9B%AA%E4%B8%BDAO.pdf)] TDNet: transformer-based network for point cloud denoising 🔹
 - [[Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630392.pdf)] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [[code](https://github.com/unknownue/pdflow)] `dl.` 🔹
 - [[Link](https://link.springer.com/article/10.1007/s00530-022-00936-4)] Point cloud denoising algorithm with geometric feature preserving ◼️
+- [[Link](https://ieeexplore.ieee.org/document/9998112)] From Noise Addition to Denoising: A Self-Variation Capture Network for Point Cloud Optimization ◼️
 - [[Link](https://www.mdpi.com/1424-8220/22/7/2666)] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold ◼️
 - [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles ◼️
 - [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression ◼️
