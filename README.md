@@ -167,6 +167,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://www.mdpi.com/2071-1050/16/5/2077)] Three-Dimensional Point Cloud Denoising for Tunnel Data by Combining Intensity and Geometry Information ◼️
 - [[Link](https://arxiv.org/pdf/2307.10875)] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification [[code](https://github.com/shinke-li/pointcvar)] ◼️
 - [[Link](https://www.mdpi.com/2072-4292/16/13/2347)] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation ◼️
+- [[Link](https://ieeexplore.ieee.org/document/10303185)] Transformer-based Point Cloud Denoising Network ◼️
 - [[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising [[code](https://github.com/ZeyongWei/PathNet)] 🔹
 - [[Link](https://www.researchgate.net/publication/382355164_The_implementation_method_of_point_cloud_denoising_filter_based_on_KinectV2/fulltext/6699306c02e9686cd10d945b/The-implementation-method-of-point-cloud-denoising-filter-based-on-KinectV2.pdf)] The implementation method of point cloud denoising filter based on KinectV2 ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall [[code](https://github.com/alvariseppanen/SMEDen)] ◼️
