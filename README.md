@@ -90,6 +90,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13344)] Pointpronets: Consolidation of point clouds with convolutional neural networks [][]
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849318300797)] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics [][] 🔸
 - [[Link](https://arxiv.org/pdf/1812.07711)] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian 🔹
+- [[Link](https://ieeexplore.ieee.org/document/8354317)] 3D Shape Processing by Convolutional Denoising Autoencoders on Local Patches 🔸
 - [[Link](http://staff.ustc.edu.cn/~zhangwm/Paper/2019_12.pdf)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense [[code](https://github.com/RyanHangZhou/tensorflow-DUP-Net)] 🔥
   
 # 2019
@@ -115,7 +116,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://arxiv.org/pdf/2003.06631)] Non-Local Part-Aware Point Cloud Denoising [][] 🔹
 - [[Link](https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072041/pdf)] Research on denoising algorithm of 3D point cloud data based on curvature change [][] ◼️
 - [[Link](https://www.computer.org/csdl/proceedings-article/iccst/2020/813800a123/1p1gtJQEUPC)] Point Cloud Denoising Algorithm Based on Noise Classification [][] 🔹
-- [[Link](https://ieeexplore.ieee.org/document/9309029)] Learning robust graph-convolutional representations for point cloud denoising [][] 🔸
+- [[Link](https://ieeexplore.ieee.org/document/9309029)] Learning robust graph-convolutional representations for point cloud denoising 🔸
 - [[Link](https://arxiv.org/pdf/1912.03874)] CNN-based Lidar Point Cloud De-Noising in Adverse Weather [[code](https://github.com/rheinzler/PointCloudDeNoising)][] 🔥
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300506)] A feature-preserving framework for point cloud denoising [][] 🔹
 - [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement [][] 🔹
@@ -123,12 +124,12 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior [][] 🔹
 - [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising [[code](https://github.com/diegovalsesia/GPDNet)] 🔥
 - [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[code](https://github.com/luost26/DMRDenoise)] 🔥
-- [[Link](https://arxiv.org/pdf/2111.02045)] Deep Point Set Resampling via Gradient Fields [][] 🔸
+- [[Link](https://arxiv.org/pdf/2111.02045)] Deep Point Set Resampling via Gradient Fields [[code](https://github.com/ChenhLiwnl/deep-rs)] 🔸
 - [[Link](https://ieeexplore.ieee.org/document/9472930)] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][] 🔸
   
 # 2021
 - [[Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Score-Based_Point_Cloud_Denoising_ICCV_2021_paper.pdf)] Score-Based Point Cloud Denoising [[code](https://github.com/luost26/score-denoise)] 🔥
-- [[Link](https://link.springer.com/article/10.1007/s11263-021-01564-7)] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [][] 🔸
+- [[Link](https://link.springer.com/article/10.1007/s11263-021-01564-7)] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [[code](https://github.com/chenhonghua/RePCD-Net)] 🔸
 - [[Link](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2022.842570/full)] VIPDA: A Visually Driven Point Cloud Denoising Algorithm Based on Anisotropic Point Cloud Filtering [][] ◼️
 - [[Link](https://arxiv.org/pdf/2101.02322)] Mesh Total Generalized Variation for Denoising [][] 🔹
 - [[Link](https://www.mdpi.com/1424-8220/21/11/3703?https://susy.mdpi.com/&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOkK_otZ43ufvO6Hu8fxvQGBWk5pM4ZK54YxdwhDntGlqbAJJBCE-GQaAlkgEALw_wcB)] PCA-Based Denoising Algorithm for Outdoor Lidar Point Cloud Data [][] 🔹
