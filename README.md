@@ -14,7 +14,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 `trad.`: traditional filter | `var.`: variational-based | `pde`: PDE-based | `spec.`: spectral-based | `dl.`: deep learning | `un.`: unsupervised | `rec.`: resampling/compression | `sur.`: surface reconstruction  | `ne.`: normal estimation | `inp.`: inpainting | `res.`: super-resolution |  `mesh.`: mesh denoising  |  `oth.`: other 
 
 ## Gradations
-- ◼️ **Less than 25 citations**
+- ◼️ **Less than 5 citations**
 - 🔹 **Less than 25 citations**
 - 🔸 **Between 25 and 50 citations**
 - 🔥 **More than 50 citations**
