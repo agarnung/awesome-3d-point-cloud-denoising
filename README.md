@@ -99,6 +99,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://arxiv.org/pdf/1901.01060)] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds [[code](https://github.com/mrakotosaon/pointcleannet)] 🌟
 - [[Link](https://isprs-archives.copernicus.org/articles/XLII-2-W13/1021/2019/isprs-archives-XLII-2-W13-1021-2019.pdf)] A Novel Denoising Algorithm for Airborne Lidar Point Cloud Based on Empirical Mode Decomposition [][] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S1877050919307793)] A 3D Point Cloud Filtering Algorithm based on Surface Variation Factor Classification [][] 🔹
+- [[Link](https://www.semanticscholar.org/paper/Deep-Unsupervised-Learning-of-3D-Point-Clouds-via-Chen-Duan/4d941083fa57d62fed269ceecbf7d8af66ec6c9c)] Deep Unsupervised Learning of 3D Point Clouds via Graph Topology Inference and Filtering [][] 🔥
 - [[Link](https://arxiv.org/pdf/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing [][] 🌟
 - [[Link](https://people.engr.tamu.edu/schaefer/research/low_rank.pdf)] Low Rank Matrix Approximation for 3D Geometry Filtering [][] 🔥
 - [[Link](https://m.researching.cn/articles/OJe0757400bd253676/referenceandcitations)] Method for Filtering Dense Noise from Laser Scanning Data [][] ◼️
