@@ -86,6 +86,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2018
 - [[Link](https://arxiv.org/pdf/1804.10831)] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation [][] 🔹
 - [[Link](https://arxiv.org/pdf/1807.00253)] Weighted Multi-projection: 3D Point Cloud Denoising with Estimated Tangent Planes [][] 🔹
+- [[Link](https://yulequan.github.io/ec-net/index.html)] EC-Net: an Edge-aware Point set Consolidation Network [[code](https://github.com/yulequan/EC-Net)] 🌟
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849318300797)] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics [][] 🔸
 - [[Link](https://arxiv.org/pdf/1812.07711)] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian [][] 🔹
   
