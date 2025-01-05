@@ -126,7 +126,6 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://link.springer.com/article/10.1007/s11263-021-01564-7)] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [][] 🔸
 - [[Link](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2022.842570/full)] VIPDA: A Visually Driven Point Cloud Denoising Algorithm Based on Anisotropic Point Cloud Filtering [][] ◼️
 - [[Link](https://arxiv.org/pdf/2101.02322)] Mesh Total Generalized Variation for Denoising [][] 🔹
-- [[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network [[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file)] ◼️
 - [[Link](https://www.mdpi.com/1424-8220/21/11/3703?https://susy.mdpi.com/&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOkK_otZ43ufvO6Hu8fxvQGBWk5pM4ZK54YxdwhDntGlqbAJJBCE-GQaAlkgEALw_wcB)] PCA-Based Denoising Algorithm for Outdoor Lidar Point Cloud Data [][] 🔹
 - [[Link](https://webpages.tuni.fi/foi/papers/Anisotropic_Denoising_of_3D_Point_Clouds_by_Aggregation_of_Multiple_Surface_Adaptive_Estimates-prepress.pdf)] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][] 🔹
 - [[Link](https://ieeexplore.ieee.org/document/9334993)] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][] 🔹
@@ -172,6 +171,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://arxiv.org/abs/2404.05522v1)] 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering 
 - [[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising [[code](https://github.com/ZeyongWei/PathNet)] 🔹
 - [[Link](https://www.researchgate.net/publication/382355164_The_implementation_method_of_point_cloud_denoising_filter_based_on_KinectV2/fulltext/6699306c02e9686cd10d945b/The-implementation-method-of-point-cloud-denoising-filter-based-on-KinectV2.pdf)] The implementation method of point cloud denoising filter based on KinectV2 ◼️
+- [[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network [[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file)] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall [[code](https://github.com/alvariseppanen/SMEDen)] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000356)] Denoising point clouds with fewer learnable parameters ◼️
 - [[Link](https://www.mdpi.com/2072-4292/16/15/2714)] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information ◼️
