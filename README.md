@@ -150,6 +150,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2023
 - [[Link](https://arxiv.org/pdf/2208.06811)] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [[code](https://github.com/ddsediri/CLJNEPCF)] 🔹
+- [[Link](https://ieeexplore.ieee.org/document/9693131)] Refine-Net: Normal Refinement Neural Network for Noisy Point Clouds 🔹
 - [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles ◼️
 - [[Link](https://arxiv.org/pdf/2209.07121)] 4DenoiseNet: Adverse Weather Denoising From Adjacent Point Clouds [[code](https://github.com/alvariseppanen/4DenoiseNet)] 🔸
 - [[Link](https://ieeexplore.ieee.org/document/10226976)] 3D Point Cloud Denoising Algorithm Based on Two-Stage Filtering ◼️
