@@ -94,7 +94,7 @@ Thank you and enjoy the 3D point cloud denoising world.
   
 # 2019
 - [[Link](https://www.mdpi.com/2072-4292/11/2/198)] A 3D point cloud filtering method for leaves based on manifold distance and normal estimation [][] 🔸
-- [[Link](https://arxiv.org/pdf/1904.04427)] 3D Point Cloud Denoising via Deep Neural Network based Surface Estimation [][] 🔥
+- [[Link](https://arxiv.org/pdf/1904.04427)] 3D Point Cloud Denoising via Deep Neural Network based Local Surface Estimation 🔥
 - [[Link](https://arxiv.org/pdf/1803.07252)] 3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model [[code](https://github.com/jzengust/ldmm_graph_laplacian_pointcloud_denoise)] 🔥
 - [[Link](https://arxiv.org/pdf/1901.01060)] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds [[code](https://github.com/mrakotosaon/pointcleannet)] 🌟
 - [[Link](https://isprs-archives.copernicus.org/articles/XLII-2-W13/1021/2019/isprs-archives-XLII-2-W13-1021-2019.pdf)] A Novel Denoising Algorithm for Airborne Lidar Point Cloud Based on Empirical Mode Decomposition [][] ◼️
@@ -146,6 +146,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://ieeexplore.ieee.org/document/9998112)] From Noise Addition to Denoising: A Self-Variation Capture Network for Point Cloud Optimization ◼️
 - [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14661)] MODNet: Multi-offset Point Cloud Denoising Network Customized for Multi-scale Patches [[code](https://github.com/hay-001/MODNet)] ◼️
 - [[Link](https://www.mdpi.com/1424-8220/22/7/2666)] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold ◼️
+- [[Link](https://www.mdpi.com/2072-4292/14/3/577)] Reflective Noise Filtering of Large-Scale Point Cloud Using Transformer 🔹
 - [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles ◼️
 - [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression ◼️
 - [[Link](https://www.mdpi.com/2072-4292/15/1/115)] A Method Based on Improved iForest for Trunk Extraction and Denoising of Individual Street Trees 🔹
