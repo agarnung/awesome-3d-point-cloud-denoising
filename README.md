@@ -84,12 +84,12 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13272)] Data-Driven Sparse Priors of 3D Shapes [][] 🔹
   
 # 2018
-- [[Link](https://arxiv.org/pdf/1804.10831)] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation [][] 🔹
-- [[Link](https://arxiv.org/pdf/1807.00253)] Weighted Multi-projection: 3D Point Cloud Denoising with Estimated Tangent Planes [][] 🔹
+- [[Link](https://arxiv.org/pdf/1804.10831)] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation 🔹
+- [[Link](https://arxiv.org/pdf/1807.00253)] Weighted Multi-projection: 3D Point Cloud Denoising with Estimated Tangent Planes 🔹
 - [[Link](https://yulequan.github.io/ec-net/index.html)] EC-Net: an Edge-aware Point set Consolidation Network [[code](https://github.com/yulequan/EC-Net)] 🌟
 - [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13344)] Pointpronets: Consolidation of point clouds with convolutional neural networks [][]
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849318300797)] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics [][] 🔸
-- [[Link](https://arxiv.org/pdf/1812.07711)] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian [][] 🔹
+- [[Link](https://arxiv.org/pdf/1812.07711)] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian 🔹
 - [[Link](http://staff.ustc.edu.cn/~zhangwm/Paper/2019_12.pdf)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense [[code](https://github.com/RyanHangZhou/tensorflow-DUP-Net)] 🔥
   
 # 2019
@@ -100,7 +100,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://isprs-archives.copernicus.org/articles/XLII-2-W13/1021/2019/isprs-archives-XLII-2-W13-1021-2019.pdf)] A Novel Denoising Algorithm for Airborne Lidar Point Cloud Based on Empirical Mode Decomposition [][] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S1877050919307793)] A 3D Point Cloud Filtering Algorithm based on Surface Variation Factor Classification [][] 🔹
 - [[Link](https://www.semanticscholar.org/paper/Deep-Unsupervised-Learning-of-3D-Point-Clouds-via-Chen-Duan/4d941083fa57d62fed269ceecbf7d8af66ec6c9c)] Deep Unsupervised Learning of 3D Point Clouds via Graph Topology Inference and Filtering [[code](https://github.com/merlresearch/FoldingNet_Plus)] 🔥
-- [[Link](https://arxiv.org/pdf/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing [][] 🌟
+- [[Link](https://arxiv.org/pdf/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing [[code](https://github.com/yifita/DSS)] 🌟
 - [[Link](https://people.engr.tamu.edu/schaefer/research/low_rank.pdf)] Low Rank Matrix Approximation for 3D Geometry Filtering [][] 🔥
 - [[Link](https://m.researching.cn/articles/OJe0757400bd253676/referenceandcitations)] Method for Filtering Dense Noise from Laser Scanning Data [][] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839619300299)] A novel anisotropic second order regularization for mesh denoising [][] 🔹
@@ -121,7 +121,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement [][] 🔹
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300531)] Deep feature-preserving normal estimation for point cloud filtering [][] 🔥
 - [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior [][] 🔹
-- [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising [][] 🔥
+- [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising [[code](https://github.com/diegovalsesia/GPDNet)] 🔥
 - [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[code](https://github.com/luost26/DMRDenoise)] 🔥
 - [[Link](https://arxiv.org/pdf/2111.02045)] Deep Point Set Resampling via Gradient Fields [][] 🔸
 - [[Link](https://ieeexplore.ieee.org/document/9472930)] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][] 🔸
