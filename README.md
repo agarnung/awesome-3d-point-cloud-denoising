@@ -154,6 +154,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles ◼️
 - [[Link](https://arxiv.org/pdf/2209.07121)] 4DenoiseNet: Adverse Weather Denoising From Adjacent Point Clouds [[code](https://github.com/alvariseppanen/4DenoiseNet)] 🔸
 - [[Link](https://ieeexplore.ieee.org/document/10226976)] 3D Point Cloud Denoising Algorithm Based on Two-Stage Filtering ◼️
+- [[Link](https://www.researchgate.net/publication/377903007_Attention_Mechanism-Based_Deep_Learning_Denoising_of_Scanned_Point_Cloud_for_Rocket_Tank_Panel)] Attention Mechanism-based Deep Learning Denoising of Scanned Point Cloud for Rocket Tank Panel ◼️
 - [[Link](https://arxiv.org/pdf/2304.11812)] NoiseTrans: Point Cloud Denoising with Transformers ◼️
 - [[Link](https://ieeexplore.ieee.org/document/9543583)] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds 🔹
 - [[Link](https://ieeexplore.ieee.org/document/10114488)] MSaD-Net: A Mix Self-Attention Networks for 3D Point Cloud Denoising 
