@@ -7,7 +7,7 @@ For any suggestions, please contact garnungalejandro@gmail.com.
 
 Thank you and enjoy the 3D point cloud denoising world.
 
-**Updated: 02/01/2025**
+**Updated: 05/01/2025**
 
 <h2>Keywords</h2>
 
