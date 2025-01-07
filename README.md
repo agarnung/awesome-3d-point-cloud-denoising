@@ -117,6 +117,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072041/pdf)] Research on denoising algorithm of 3D point cloud data based on curvature change [][] ◼️
 - [[Link](https://www.computer.org/csdl/proceedings-article/iccst/2020/813800a123/1p1gtJQEUPC)] Point Cloud Denoising Algorithm Based on Noise Classification [][] 🔹
 - [[Link](https://ieeexplore.ieee.org/document/9309029)] Learning robust graph-convolutional representations for point cloud denoising 🔸
+- [[Link](https://www.researchgate.net/publication/334846348_3D_point_cloud_registration_denoising_method_for_human_motion_image_using_deep_learning_algorithm)] 3D point cloud registration denoising method for human motion image using deep learning algorithm 🔹
 - [[Link](https://arxiv.org/pdf/1912.03874)] CNN-based Lidar Point Cloud De-Noising in Adverse Weather [[code](https://github.com/rheinzler/PointCloudDeNoising)][] 🔥
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300506)] A feature-preserving framework for point cloud denoising [][] 🔹
 - [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement [][] 🔹
