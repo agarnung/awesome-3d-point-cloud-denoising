@@ -165,6 +165,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://ieeexplore.ieee.org/document/10114488)] MSaD-Net: A Mix Self-Attention Networks for 3D Point Cloud Denoising 
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0263224123001562)] Parameter optimization for point clouds denoising based on no-reference quality assessment 🔹
 - [[Link](https://www.mdpi.com/2072-4292/15/1/269)] Multiscale Feature Fusion for the Multistage Denoising of Airborne Single Photon LiDAR 🔹
+- [[Link](https://www.sciencedirect.com/science/article/pii/S1350449523001822)] Bilateral filter denoising of Lidar point cloud data in automatic driving scene 🔹
 - [[Link](https://ieeexplore.ieee.org/document/10173632)] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [[code](https://github.com/LabZhengLiu/PCDNF)] 🔹
 - [[Link](https://arxiv.org/pdf/2202.10094)] Point Cloud Denoising via Momentum Ascent in Gradient Fields [[code](https://github.com/IndigoPurple/MAG)] 🔹
 - [[Link](https://iopscience.iop.org/article/10.1088/1361-6501/ad044d)] 3D point cloud global denoising algorithm based on different noise characteristics ◼️
