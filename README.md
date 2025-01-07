@@ -163,6 +163,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://ieeexplore.ieee.org/document/10226976)] 3D Point Cloud Denoising Algorithm Based on Two-Stage Filtering ◼️
 - [[Link](https://www.researchgate.net/publication/377903007_Attention_Mechanism-Based_Deep_Learning_Denoising_of_Scanned_Point_Cloud_for_Rocket_Tank_Panel)] Attention Mechanism-based Deep Learning Denoising of Scanned Point Cloud for Rocket Tank Panel ◼️
 - [[Link](https://arxiv.org/pdf/2304.11812)] NoiseTrans: Point Cloud Denoising with Transformers ◼️
+- [[Link](https://www.sciencedirect.com/science/article/pii/S0031320323000675?dgcid=raven_sd_recommender_email)] A single-stage point cloud cleaning network for outlier removal and denoising 🔹
 - [[Link](https://ieeexplore.ieee.org/document/9543583)] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds 🔹
 - [[Link](https://ieeexplore.ieee.org/document/10114488)] MSaD-Net: A Mix Self-Attention Networks for 3D Point Cloud Denoising 
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0263224123001562)] Parameter optimization for point clouds denoising based on no-reference quality assessment 🔹
