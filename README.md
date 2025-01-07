@@ -145,6 +145,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630392.pdf)] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [[code](https://github.com/unknownue/pdflow)] `dl.` 🔹
 - [[Link](https://link.springer.com/article/10.1007/s00530-022-00936-4)] Point cloud denoising algorithm with geometric feature preserving ◼️
 - [[Link](https://www.semanticscholar.org/reader/524b518d34a672f8f84ba7b139aff00b763464d0)] Dynamic Point Cloud Denoising via Gradient Fields ◼
+- [[Link](https://www.semanticscholar.org/paper/Structure-Aware-Denoising-for-Real-world-Noisy-with-Sun-Chu/5da3a477363e6a3f303b5402dbe62011deb53a4f)] Structure-Aware Denoising for Real-world Noisy Point Clouds with Complex Structures 🔹
 - [[Link](https://ieeexplore.ieee.org/document/9998112)] From Noise Addition to Denoising: A Self-Variation Capture Network for Point Cloud Optimization ◼️
 - [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14661)] MODNet: Multi-offset Point Cloud Denoising Network Customized for Multi-scale Patches [[code](https://github.com/hay-001/MODNet)] ◼️
 - [[Link](https://www.mdpi.com/1424-8220/22/7/2666)] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold ◼️
