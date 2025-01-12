@@ -28,7 +28,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://graphics.stanford.edu/courses/cs468-03-fall/Papers/Levin_MovingLeastSquares.pdf)] Mesh-Independent Surface Interpolation MLS [][`oth.`] 🌟
 - [[Link](https://people.csail.mit.edu/thouis/JDD03.pdf)] Non-Iterative, Feature-Preserving Mesh Smoothing [[code](https://github.com/Oponn-1/3D-Point-Cloud-Denoising/blob/master/smoother.c)] 🌟
 - [[Link](https://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours3_Document1_bilateral_mesh_denoising.pdf)] Bilateral mesh denoising [[code](https://github.com/bldeng/GuidedDenoising/tree/master)] 🔥
-- 
+
 # 2004
 ...
 
