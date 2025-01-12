@@ -50,6 +50,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2010
 - [[Link](https://www.scientific.net/AMR.97-101.3631)] Scatter Point Cloud Denoising Based on Self-Adaptive Optimal Neighborhood [][] 🔹
+- [[Link](https://dl.acm.org/doi/10.1145/1857907.1857911)] ℓ1-Sparse reconstruction of sharp point set surfaces 🌟
 
 # 2011
 - [[Link](https://chpc.greyc.fr/images/Documents/Publications/2011_06_Nonlocal_PDEs-Based_Morphology_on_Weighted_Graphs_for_Image_and_Data_Processing.pdf)] Nonlocal PDEs-Based Morphology on Weighted Graphs for Image and Data Processing [][] 🔥
