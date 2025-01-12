@@ -61,6 +61,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2013
 - [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][] ◼️
+- [[Link](https://people.engr.tamu.edu/schaefer/research/L0Smoothing.pdf)] Mesh Denoising via L0 Minimization [[code](https://github.com/tatsy/L0Denoising)] 🌟
 
 # 2014
 - [[Link](https://people.csail.mit.edu/jsolomon/assets/MeshBilateral.pdf)] A General Framework for Bilateral and Mean Shift Filtering [][] 🔸
