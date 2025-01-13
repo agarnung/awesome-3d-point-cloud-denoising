@@ -199,6 +199,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network [[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file)] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall [[code](https://github.com/alvariseppanen/SMEDen)] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000356)] Denoising point clouds with fewer learnable parameters ◼️
+- [[Link](https://www.researching.cn/articles/OJeb4150232c7fa1bc)] Review of 3D Point Cloud Processing Methods Based on Deep Learning `surv.` ◼️
 - [[Link](https://www.mdpi.com/2072-4292/16/15/2714)] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information ◼️
 - [[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering [[code](https://github.com/ddsediri/StraightPCF)] ◼️
 - [[Link](https://arxiv.org/pdf/2411.00857)] Deep Learning for 3D Point Cloud Enhancement: A Survey `surv.` ◼️
