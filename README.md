@@ -11,7 +11,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 <h2>Keywords</h2>
 
-`trad.`: traditional filter | `var.`: variational-based | `pde`: PDE-based | `spec.`: spectral-based | `dl.`: deep learning | `un.`: unsupervised | `rec.`: resampling/compression | `sur.`: surface reconstruction  | `ne.`: normal estimation | `inp.`: inpainting | `res.`: super-resolution |  `mesh.`: mesh denoising  |  `oth.`: other 
+`trad.`: traditional filter | `var.`: variational-based | `pde`: PDE-based | `spec.`: spectral-based | `dl.`: deep learning | `un.`: unsupervised | `rec.`: resampling/compression | `sur.`: surface reconstruction  | `ne.`: normal estimation | `inp.`: inpainting | `res.`: super-resolution | `mesh.`: mesh denoising | `surv.`: survey | `oth.`: other 
 
 ## Gradations
 - ◼️ **Less than 5 citations**
@@ -198,6 +198,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000356)] Denoising point clouds with fewer learnable parameters ◼️
 - [[Link](https://www.mdpi.com/2072-4292/16/15/2714)] A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAMinForest Environments Based on Guidance Information ◼️
 - [[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering [[code](https://github.com/ddsediri/StraightPCF)] ◼️
+- [[Link](https://arxiv.org/pdf/2411.00857)] Deep Learning for 3D Point Cloud Enhancement: A Survey `surv.` ◼️
 - [[Link](https://arxiv.org/pdf/2408.13802)] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [[code](https://github.com/Grandzxw/TripleMixer)] ◼️
 - [[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud [[code](https://github.com/matvogel/P2P-Bridge)] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0263224124015562)] TPDNet: A point cloud data denoising method for offshore drilling platforms and its application ◼️
