@@ -70,7 +70,6 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://ieeexplore.ieee.org/abstract/document/7009913)] Research on 3D scanning point cloud de-nosing [][] 🔹
 
 # 2015
-- [[Link](https://www.ipol.im/pub/art/2017/179/revisions/2022-01-01/article.pdf)] The bilateral filter for point clouds [][] 🔥
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839615000345)] Denoising Point Sets via L0 Minimization [][] 🌟
 - [[Link](https://ieeexplore.ieee.org/document/7418871)] 3D point cloud denoising and normal estimation for 3D surface reconstruction [][] 🔹
 - [[Link](http://sofienbouaziz.com/pdf/GuidedFilter_PG15.pdf)]  Guided Mesh Normal Filtering [[code](https://github.com/bldeng/GuidedDenoising/tree/master)] 🌟
@@ -85,6 +84,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2017
 - [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13068)] Point Cloud Denoising via Moving RPCA [][] 🔥
+- [[Link](https://www.ipol.im/pub/art/2017/179/revisions/2022-01-01/article.pdf)] The bilateral filter for point clouds [][] 🔥
 - [[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering [[code](https://github.com/aipiano/guided-filter-point-cloud-denoise)][] 🔸
 - [[Link](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13272)] Data-Driven Sparse Priors of 3D Shapes [][] 🔹
   
