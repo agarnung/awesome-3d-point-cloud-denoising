@@ -142,6 +142,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://link.springer.com/article/10.1007/s11263-021-01564-7)] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [[code](https://github.com/chenhonghua/RePCD-Net)] 🔸
 - [[Link](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2022.842570/full)] VIPDA: A Visually Driven Point Cloud Denoising Algorithm Based on Anisotropic Point Cloud Filtering [][] ◼️
 - [[Link](https://arxiv.org/pdf/2101.02322)] Mesh Total Generalized Variation for Denoising [][] 🔹
+- [[Link](https://www.sciencedirect.com/science/article/pii/S1047320321000092?dgcid=raven_sd_recommender_email)] Exploiting color for graph-based 3D point cloud denoising [][] 🔹
 - [[Link](https://www.mdpi.com/1424-8220/21/11/3703?https://susy.mdpi.com/&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOkK_otZ43ufvO6Hu8fxvQGBWk5pM4ZK54YxdwhDntGlqbAJJBCE-GQaAlkgEALw_wcB)] PCA-Based Denoising Algorithm for Outdoor Lidar Point Cloud Data [][] 🔹
 - [[Link](https://webpages.tuni.fi/foi/papers/Anisotropic_Denoising_of_3D_Point_Clouds_by_Aggregation_of_Multiple_Surface_Adaptive_Estimates-prepress.pdf)] Anisotropic Denoising of 3D Point Clouds by Aggregation of Multiple Surface-Adaptive Estimates [][] 🔹
 - [[Link](https://ieeexplore.ieee.org/document/9334993)] Joint Geometry and Color Point Cloud Denoising Based on Graph Wavelets [][] 🔹
