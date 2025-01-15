@@ -113,6 +113,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://arxiv.org/pdf/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing [[code](https://github.com/yifita/DSS)] 🌟
 - [[Link](https://people.engr.tamu.edu/schaefer/research/low_rank.pdf)] Low Rank Matrix Approximation for 3D Geometry Filtering [][] 🔥
 - [[Link](https://m.researching.cn/articles/OJe0757400bd253676/referenceandcitations)] Method for Filtering Dense Noise from Laser Scanning Data [][] ◼️
+- [[Link](https://ieeexplore.ieee.org/document/8683548)] Denoising of 3D point clouds constructed from light fields 🔹
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839619300299)] A novel anisotropic second order regularization for mesh denoising [][] 🔹
 - [[Link](https://isprs-archives.copernicus.org/articles/XLII-2-W17/217/2019/)] Denoising of 3D Point clouds [][] ◼️
 - [[Link](https://arxiv.org/pdf/1904.07615)] Total denoising: Unsupervised learning of 3D point cloud cleaning [[code](https://github.com/phermosilla/TotalDenoising)] 🔥
