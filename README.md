@@ -47,6 +47,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2009
 - [[Link](https://ieeexplore.ieee.org/document/5137578)] Noise reduction and modeling methods of TLS point cloud based on R-tree [][] 🔹
 - [[Link](https://ieeexplore.ieee.org/document/5402768)] Algorithm for 3D Point Cloud Denoising [][] 🔹
+- [[Link](https://www.cs.sfu.ca/~haoz/pubs/siga09_consolidater_reduced.pdf)] Consolidation of Unorganized Point Clouds for Surface Reconstruction [[code](https://github.com/jinseokbae/WLOP-based-PointCloudDenoiser)] 🌟
 - [[Link](https://ieeexplore.ieee.org/document/5287748)] 3D Body Point Cloud Data Denoising and Registration [][] ◼️
 
 # 2010
