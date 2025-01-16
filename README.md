@@ -138,6 +138,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[code](https://github.com/luost26/DMRDenoise)] 🔥
 - [[Link](https://arxiv.org/pdf/2111.02045)] Deep Point Set Resampling via Gradient Fields [[code](https://github.com/ChenhLiwnl/deep-rs)] 🔸
 - [[Link](https://ieeexplore.ieee.org/document/9472930)] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][] 🔸
+- [[Link](https://ieeexplore.ieee.org/document/9296808)] Mesh Denoising with Facet Graph Convolutions [[code](https://github.com/Elensil/Facet_Graph_Convolution)] 🔹
   
 # 2021
 - [[Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Score-Based_Point_Cloud_Denoising_ICCV_2021_paper.pdf)] Score-Based Point Cloud Denoising [[code](https://github.com/luost26/score-denoise)] 🔥
