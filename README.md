@@ -40,6 +40,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2007
 - [[Link](https://langbein.org/wp-content/uploads/2009/06/sun2007.pdf)] Fast and Effective Feature-Preserving Mesh Denoising [[code](https://github.com/bldeng/GuidedDenoising/tree/master)] 🌟
+- [[Link](https://hal.science/hal-00333374/file/SSVM-2007.pdf)] Discrete Regularization on Weighted Graphs for Image and Mesh Filtering 🔥 `var.` `pde` `mesh.`
 
 # 2008
 - [[Link](https://lezoray.users.greyc.fr/Publis/IEEE_IP_2008.pdf)] Nonlocal discrete regularization on weighted graphs: A framework for image and manifold processing [][] 🌟
