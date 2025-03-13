@@ -20,7 +20,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 - 🔥 **More than 25 citations**
 - 🌟 **More than 50 citations**
 
-_Star count automated from [Semantic Scholar](https://api.semanticscholar.org/api-docs/#tag/Paper-Data/operation/post_graph_get_papers) with [this script](./update_list.py)_
+_Star count automated from [Semantic Scholar](https://api.semanticscholar.org/api-docs/#tag/Paper-Data/operation/post_graph_get_papers) with [this script](./update_list.py)._
 
 <h2>Table of Contents</h2>
 
