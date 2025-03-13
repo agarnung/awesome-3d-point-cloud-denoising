@@ -1,8 +1,3 @@
-# Script que actualiza automáticamente los emojis del archivo markdown basándose en el número de citas 
-# de cada artículo en  Semantic Scholar, modificando solamente los artículos presentes en el config.yaml
-# See https://api.semanticscholar.org/api-docs/#tag/Paper-Data/operation/post_graph_get_papers
-# See https://stackoverflow.com/questions/28566714/how-to-load-html-page-variable-into-python-variable-using-the-web-address
-
 import yaml
 import requests
 import re
