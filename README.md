@@ -218,4 +218,4 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 - [[Link](https://link.springer.com/article/10.1007/s41095-024-0423-3)] Noise4Denoise: Leveraging Noise for Unsupervised Point Cloud Denoising ◼️ `un.`
 
 # 2025
-...
+- [[Link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1490660/full)] LiDAR point cloud denoising for individual tree extraction based on the Noise4Denoise ◼️ `un.`
