@@ -209,6 +209,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising [[code](https://github.com/ZeyongWei/PathNet)] ◼️
 - [[Link](https://www.researchgate.net/publication/382355164_The_implementation_method_of_point_cloud_denoising_filter_based_on_KinectV2/fulltext/6699306c02e9686cd10d945b/The-implementation-method-of-point-cloud-denoising-filter-based-on-KinectV2.pdf)] The implementation method of point cloud denoising filter based on KinectV2 ◼️
 - [[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network [[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file)] ◼️
+- [[Link](https://www.mdpi.com/2072-4292/16/23/4559)] Hybrid Denoising Algorithm for Architectural Point Clouds Acquired with SLAM Systems ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall [[code](https://github.com/alvariseppanen/SMEDen)] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000356)] Denoising point clouds with fewer learnable parameters ◼️
 - [[Link](https://www.researching.cn/articles/OJeb4150232c7fa1bc)] Review of 3D Point Cloud Processing Methods Based on Deep Learning ◼️ `surv.` 
