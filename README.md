@@ -136,6 +136,7 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 - [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement [][] ◼️ `var.`
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300531)] Deep feature-preserving normal estimation for point cloud filtering [][] ◼️
 - [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior [][] ◼️
+- [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620300046?utm_source=chatgpt.com)] Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning ◼️
 - [[Link](https://ieeexplore.ieee.org/document/9287341)] 3D Point Cloud Denoising Using a Joint Geometry and Color k-NN Graph ◼️
 - [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising [[code](https://github.com/diegovalsesia/GPDNet)] 🔹
 - [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[code](https://github.com/luost26/DMRDenoise)] 🔸 `un.`
