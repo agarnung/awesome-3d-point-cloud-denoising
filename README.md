@@ -131,7 +131,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://ieeexplore.ieee.org/document/8901695)] 3D Point Cloud Color Denoising Using Convex Graph-Signal Smoothness Priors ◼️ `var.`
   
 # 2020
-- [[Link](https://ieeexplore.ieee.org/document/9026751)] Feature Graph Learning for 3D Point Cloud Denoising ◼️
+- [[Link](https://ieeexplore.ieee.org/document/9026751)] Feature Graph Learning for 3D Point Cloud Denoising (FGL) ◼️
 - [[Link](https://ieeexplore.ieee.org/document/8976421)] Point Cloud Denoising via Feature Graph Laplacian Regularization ◼️ `var.`
 - [[Link](https://arxiv.org/pdf/2002.05968)] Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling [[code](https://github.com/dongbo-BUAA-VR/Pointfilter)] 🔹
 - [[Link](https://arxiv.org/pdf/2003.06631)] Non-Local Part-Aware Point Cloud Denoising ◼️
