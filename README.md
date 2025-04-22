@@ -43,6 +43,7 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 # 2007
 - [[Link](https://langbein.org/wp-content/uploads/2009/06/sun2007.pdf)] Fast and Effective Feature-Preserving Mesh Denoising [[code](https://github.com/bldeng/GuidedDenoising/tree/master)] 🌟
 - [[Link](https://hal.science/hal-00333374/file/SSVM-2007.pdf)] Discrete Regularization on Weighted Graphs for Image and Mesh Filtering ◼️ `var.` `pde` `mesh.`
+- [[Link](https://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours3_Document2_Locally_Optimal_Projection.pdf)] Parameterization-free Projection for Geometry Reconstruction (LOP) 🔥
 
 # 2008
 - [[Link](https://lezoray.users.greyc.fr/Publis/IEEE_IP_2008.pdf)] Nonlocal discrete regularization on weighted graphs: A framework for image and manifold processing [][] 🔥 `var.`
@@ -50,7 +51,7 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 # 2009
 - [[Link](https://ieeexplore.ieee.org/document/5137578)] Noise reduction and modeling methods of TLS point cloud based on R-tree [][] ◼️
 - [[Link](https://ieeexplore.ieee.org/document/5402768)] Algorithm for 3D Point Cloud Denoising [][] ◼️ `trad.`
-- [[Link](https://www.cs.sfu.ca/~haoz/pubs/siga09_consolidater_reduced.pdf)] Consolidation of Unorganized Point Clouds for Surface Reconstruction [[code](https://github.com/jinseokbae/WLOP-based-PointCloudDenoiser)] 🌟
+- [[Link](https://www.cs.sfu.ca/~haoz/pubs/siga09_consolidater_reduced.pdf)] Consolidation of Unorganized Point Clouds for Surface Reconstruction (WLOP) [[code](https://github.com/jinseokbae/WLOP-based-PointCloudDenoiser)] 🌟
 - [[Link](https://ieeexplore.ieee.org/document/5287748)] 3D Body Point Cloud Data Denoising and Registration [][] ◼️
 
 # 2010
@@ -68,10 +69,12 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 # 2013
 - [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression [][] ◼️
 - [[Link](https://people.engr.tamu.edu/schaefer/research/L0Smoothing.pdf)] Mesh Denoising via L0 Minimization [[code1](https://github.com/tatsy/L0Denoising)][[code2](https://github.com/AlonzoQuio/MeshDenoisingViaL0Minimization/tree/master)][[code3](https://github.com/bldeng/GuidedDenoising/tree/master)] 🔥 `var.`
+- [[Link](https://dl.acm.org/doi/10.1145/2421636.2421645)] Edge-aware point set resampling (AWLOP/EAR) 🔥
 
 # 2014
 - [[Link](https://people.csail.mit.edu/jsolomon/assets/MeshBilateral.pdf)] A General Framework for Bilateral and Mean Shift Filtering [][] ◼️ `trad.`
 - [[Link](https://ieeexplore.ieee.org/abstract/document/7009913)] Research on 3D scanning point cloud de-nosing [][] ◼️
+- [[Link](https://dl.acm.org/doi/10.1145/2601097.2601172)] Continuous projection for fast L1 reconstruction (CLOP) 🔸
 
 # 2015
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839615000345)] Denoising Point Sets via L0 Minimization [][] 🔸 `var.`
@@ -121,7 +124,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://ieeexplore.ieee.org/document/8683548)] Denoising of 3D point clouds constructed from light fields ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839619300299)] A novel anisotropic second order regularization for mesh denoising [][] ◼️
 - [[Link](https://isprs-archives.copernicus.org/articles/XLII-2-W17/217/2019/)] Denoising of 3D Point clouds [][] ◼️
-- [[Link](https://arxiv.org/pdf/1904.07615)] Total denoising: Unsupervised learning of 3D point cloud cleaning [[code](https://github.com/phermosilla/TotalDenoising)] 🔸 `un.`
+- [[Link](https://arxiv.org/pdf/1904.07615)] Total denoising: Unsupervised learning of 3D point cloud cleaning (TD) [[code](https://github.com/phermosilla/TotalDenoising)] 🔸 `un.`
 - [[Link](https://ieeexplore.ieee.org/document/8901695)] 3D Point Cloud Color Denoising Using Convex Graph-Signal Smoothness Priors [][] ◼️ `var.`
   
 # 2020
@@ -140,7 +143,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior [][] ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620300046?utm_source=chatgpt.com)] Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning ◼️
 - [[Link](https://ieeexplore.ieee.org/document/9287341)] 3D Point Cloud Denoising Using a Joint Geometry and Color k-NN Graph ◼️
-- [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising [[code](https://github.com/diegovalsesia/GPDNet)] 🔹
+- [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising (GPDNet) [[code](https://github.com/diegovalsesia/GPDNet)] 🔹
 - [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[code](https://github.com/luost26/DMRDenoise)] 🔸 `un.`
 - [[Link](https://arxiv.org/pdf/2111.02045)] Deep Point Set Resampling via Gradient Fields [[code](https://github.com/ChenhLiwnl/deep-rs)] 🔹
 - [[Link](https://ieeexplore.ieee.org/document/9472930)] Dynamic Point Cloud Denoising via Manifold-to Manifold Distance [][] ◼️
