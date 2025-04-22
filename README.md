@@ -1,6 +1,8 @@
 # Overview
 A curated list of awesome 3D point cloud denoising (and closely related fields) papers.
 
+We focus particularly on point clouds as a representation of 3D data and on denoising as a technique, but we also include some works that deal with other representations, such as meshes, voxels... or closely related techniques, such as hole-filling, surface reconstruction... since—like denoising—they aim to recover the underlying surface of the scanned real-world object.
+
 This is a work in _continuous progress_.
 
 For any suggestions, please contact garnungalejandro@gmail.com.
