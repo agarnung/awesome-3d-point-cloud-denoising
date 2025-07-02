@@ -91,6 +91,7 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 - [[Link](https://arxiv.org/pdf/1602.05312)] Density-based Denoising of Point Cloud ◼️
 - [[Link](https://dl.acm.org/doi/10.1145/2980179.2980232)] Mesh Denoising via Cascaded Normal Regression `mesh.` 🔥
 - [[Link](https://ieeexplore.ieee.org/document/7785084)] Point Cloud Noise and Outlier Removal for Image-Based 3D Reconstruction ◼️
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0924271616300922)] Dynamic occlusion detection and inpainting of in situ captured terrestrial laser scanning point clouds sequence ◼️
 - [[Link](https://ee.iisc.ac.in/cvlab/papers/haque2016robden.pdf)] Robust Feature-Preserving Denoising of 3D Point Clouds ◼️
 
 # 2017
