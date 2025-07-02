@@ -146,7 +146,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement ◼️ `var.`
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300531)] Deep feature-preserving normal estimation for point cloud filtering ◼️
 - [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior ◼️
-- [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620300046?utm_source=chatgpt.com)] Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning ◼️
+- [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620300046)] Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning ◼️
 - [[Link](https://ieeexplore.ieee.org/document/9287341)] 3D Point Cloud Denoising Using a Joint Geometry and Color k-NN Graph ◼️
 - [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising (GPDNet) [[code](https://github.com/diegovalsesia/GPDNet)] 🔹
 - [[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[code](https://github.com/luost26/DMRDenoise)] 🔸 `un.`
@@ -180,6 +180,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://www.mdpi.com/2072-4292/14/3/577)] Reflective Noise Filtering of Large-Scale Point Cloud Using Transformer ◼️
 - [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles ◼️
 - [[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression ◼️
+- [[Link](https://arxiv.org/abs/2211.10023)] LiSnowNet: Real-time Snow Removal for LiDAR Point Cloud ◼️
 - [[Link](https://arxiv.org/pdf/2203.03311)] Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis 🔹 `surv.`
 - [[Link](https://www.mdpi.com/2072-4292/15/1/115)] A Method Based on Improved iForest for Trunk Extraction and Denoising of Individual Street Trees ◼️
 
@@ -194,6 +195,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://arxiv.org/pdf/2304.11812)] NoiseTrans: Point Cloud Denoising with Transformers ◼️
 - [[Link](https://www.sciencedirect.com/science/article/pii/S0031320323000675?dgcid=raven_sd_recommender_email)] A single-stage point cloud cleaning network for outlier removal and denoising ◼️
 - [[Link](https://ieeexplore.ieee.org/document/9543583)] GeoDualCNN: Geometry Supporting Dual Convolutional Neural Network for Noisy Point Clouds ◼️
+- [[Link](https://arxiv.org/abs/2305.05991)] DMNR: Unsupervised De-noising of Point Clouds Corrupted by Airborne Particles ◼️
 - [[Link](https://ieeexplore.ieee.org/document/10114488)] MSaD-Net: A Mix Self-Attention Networks for 3D Point Cloud Denoising ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0263224123001562)] Parameter optimization for point clouds denoising based on no-reference quality assessment ◼️
 - [[Link](https://www.mdpi.com/2072-4292/15/1/269)] Multiscale Feature Fusion for the Multistage Denoising of Airborne Single Photon LiDAR ◼️
