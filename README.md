@@ -78,6 +78,7 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 - [[Link](https://people.csail.mit.edu/jsolomon/assets/MeshBilateral.pdf)] A General Framework for Bilateral and Mean Shift Filtering ◼️ `trad.`
 - [[Link](https://ieeexplore.ieee.org/abstract/document/7009913)] Research on 3D scanning point cloud de-nosing ◼️
 - [[Link](https://dl.acm.org/doi/10.1145/2601097.2601172)] Continuous projection for fast L1 reconstruction (CLOP) 🔸
+- [[Link](https://inria.hal.science/hal-01017700/file/star_author.pdf)] State of the Art in Surface Reconstruction from Point Clouds 🌟
 
 # 2015
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839615000345)] Denoising Point Sets via L0 Minimization 🔸 `var.`
