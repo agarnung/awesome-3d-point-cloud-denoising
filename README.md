@@ -110,6 +110,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://arxiv.org/pdf/1712.03574)] Static/Dynamic Filtering for Mesh Geometry [[code](https://github.com/bldeng/MeshSDFilter)] ◼️
 - [[Link](https://www3.cs.stonybrook.edu/~qin/research/2018-cad-mesh-denoising-using-sparse-regularization.pdf)] Robust and effective mesh denoising using L0 sparse regularization ◼️
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849318300797)] Constraint based point set denoising using normal voting tensor and restricted quadratic error metrics ◼️
+- [[Link](https://link.springer.com/article/10.1007/s00366-017-0556-4)] Denoising of point cloud data for computer-aided design, engineering, and manufacturing 🔥
 - [[Link](https://arxiv.org/pdf/1812.07711)] 3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian ◼️ `var.`
 - [[Link](https://ieeexplore.ieee.org/document/8354317)] 3D Shape Processing by Convolutional Denoising Autoencoders on Local Patches ◼️
 - [[Link](http://staff.ustc.edu.cn/~zhangwm/Paper/2019_12.pdf)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense [[code](https://github.com/RyanHangZhou/tensorflow-DUP-Net)] 🔥
