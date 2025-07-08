@@ -178,6 +178,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://www.semanticscholar.org/paper/Structure-Aware-Denoising-for-Real-world-Noisy-with-Sun-Chu/5da3a477363e6a3f303b5402dbe62011deb53a4f)] Structure-Aware Denoising for Real-world Noisy Point Clouds with Complex Structures [[code](https://github.com/rg089/SCANING)] ◼️
 - [[Link](https://ieeexplore.ieee.org/document/9998112)] From Noise Addition to Denoising: A Self-Variation Capture Network for Point Cloud Optimization ◼️
 - [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14661)] MODNet: Multi-offset Point Cloud Denoising Network Customized for Multi-scale Patches [[code](https://github.com/hay-001/MODNet)] ◼️
+- [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1524070322000170)] Point cloud denoising review: from classical to deep learning-based approaches 🌟 `surv.`
 - [[Link](https://www.mdpi.com/1424-8220/22/7/2666)] Denoising for 3D Point Cloud Based on Regularization of a Statistical Low-Dimensional Manifold ◼️
 - [[Link](https://www.mdpi.com/2072-4292/14/3/577)] Reflective Noise Filtering of Large-Scale Point Cloud Using Transformer ◼️
 - [[Link](https://iopscience.iop.org/article/10.1088/1742-6596/2383/1/012080/pdf)] Optimization of point cloud preprocessing algorithm for equipped vehicles ◼️
@@ -206,7 +207,8 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://arxiv.org/pdf/2202.10094)] Point Cloud Denoising via Momentum Ascent in Gradient Fields [[code](https://github.com/IndigoPurple/MAG)] ◼️
 - [[Link](https://iopscience.iop.org/article/10.1088/1361-6501/ad044d)] 3D point cloud global denoising algorithm based on different noise characteristics ◼️
 - [[Link](https://link.springer.com/article/10.1007/s00371-022-02698-6)] 3D point cloud denoising using anisotropic neighborhoods and a novel sharp feature detection algorithm [[code](https://git.tecgraf.puc-rio.br/hurtado/point_cloud_denoising_tvcj)] ◼️
-- [[Link](https://openaccess.thecvf.com/content/CVPR2023/papers/de_Silva_Edirimuni_IterativePFN_True_Iterative_Point_Cloud_Filtering_CVPR_2023_paper.pdf)] IterativePFN: True Iterative Point Cloud Filtering [[code](https://github.com/ddsediri/IterativePFN)] ◼️ 
+- [[Link](https://openaccess.thecvf.com/content/CVPR2023/papers/de_Silva_Edirimuni_IterativePFN_True_Iterative_Point_Cloud_Filtering_CVPR_2023_paper.pdf)] IterativePFN: True Iterative Point Cloud Filtering [[code](https://github.com/ddsediri/IterativePFN)] ◼️
+- [[Link](https://www.researchgate.net/publication/376817692_TP-NoDe_Topology-aware_Progressive_Noising_and_Denoising_of_Point_Clouds_towards_Upsampling)] TP-NoDe: Topology-aware Progressive Noising and Denoising of Point Clouds towards Upsampling ◼️
 - [[Link](https://ieeexplore.ieee.org/document/10095488)] Graph-Based Point Cloud Color Denoising with 3-Dimensional Patch-Based Similarity ◼️
 - [[Link](https://link.springer.com/article/10.1007/s42791-023-00058-6)] Deep learning-based point cloud upsampling: a review of recent trends ◼️ `surv.` 
 - [[Link](https://link.springer.com/article/10.1007/s00371-023-03158-5)] 3D point cloud denoising method based on global feature guidance ◼️
