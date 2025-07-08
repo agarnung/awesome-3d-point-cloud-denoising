@@ -147,6 +147,7 @@ Based on Multi-view Image Reconstruction ◼️
 - [[Link](https://www.mdpi.com/1424-8220/20/11/3206)] Sparse Regularization-Based Approach for Point Cloud Denoising and Sharp Features Enhancement ◼️ `var.`
 - [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0010448520300531)] Deep feature-preserving normal estimation for point cloud filtering ◼️
 - [[Link](https://arxiv.org/pdf/2004.04242)] Deep Manifold Prior ◼️
+- [[Link](https://www.researchgate.net/publication/345665258_Edge-guided_second-order_total_generalized_variation_for_Gaussian_noise_removal_from_depth_map)] Edge-guided second-order total generalized variation for Gaussian noise removal from depth map 🔹 `var.`
 - [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620300046)] Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning ◼️
 - [[Link](https://ieeexplore.ieee.org/document/9287341)] 3D Point Cloud Denoising Using a Joint Geometry and Color k-NN Graph ◼️
 - [[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising (GPDNet) [[code](https://github.com/diegovalsesia/GPDNet)] 🔹
