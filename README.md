@@ -240,3 +240,11 @@ Based on Multi-view Image Reconstruction ◼️
 # 2025
 - [[Link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1490660/full)] LiDAR point cloud denoising for individual tree extraction based on the Noise4Denoise ◼️ `un.`
 - [[Link](https://www.researchgate.net/publication/389316228_Noise2Score3DUnsupervised_Tweedie%27s_Approach_for_Point_Cloud_Denoising)] Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising ◼️ `un.`
+
+<a href="https://www.star-history.com/#agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=agarnung/awesome-3d-point-cloud-denoising&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left" />
+ </picture>
+</a>
