@@ -248,3 +248,8 @@ Based on Multi-view Image Reconstruction ◼️
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left" />
  </picture>
 </a>
+
+# TODO
+
+- Link arXiv survey
+- Create visuales with [NapkinAI](https://www.napkin.ai/) (for example)
