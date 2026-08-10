@@ -12,7 +12,7 @@ For any suggestions, please contact garnungalejandro@gmail.com.
 
 Thank you and enjoy the 3D point cloud denoising world.
 
-**Updated: 02/07/2025**
+**Updated: 10/08/2026**
 
 <h2>Keywords</h2>
 
@@ -29,7 +29,7 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 
 <h2>Table of Contents</h2>
 
-[2003](#2003), [2004](#2004), [2005](#2005), [2006](#2006), [2007](#2007), [2008](#2008), [2009](#2009), [2010](#2010), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2016](#2016), [2017](#2017), [2018](#2018), [2019](#2019), [2020](#2020), [2021](#2021), [2022](#2022), [2023](#2023), [2024](#2024), [2025](#2025)
+[2003](#2003), [2004](#2004), [2005](#2005), [2006](#2006), [2007](#2007), [2008](#2008), [2009](#2009), [2010](#2010), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2016](#2016), [2017](#2017), [2018](#2018), [2019](#2019), [2020](#2020), [2021](#2021), [2022](#2022), [2023](#2023), [2024](#2024), [2025](#2025), [2026](#2026)
 
 # 2003
 - [[Link](https://graphics.stanford.edu/courses/cs468-03-fall/Papers/Levin_MovingLeastSquares.pdf)] Mesh-Independent Surface Interpolation MLS [][`oth.`] 🔥 
@@ -241,7 +241,17 @@ Based on Multi-view Image Reconstruction ◼️
 
 # 2025
 - [[Link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1490660/full)] LiDAR point cloud denoising for individual tree extraction based on the Noise4Denoise ◼️ `un.`
-- [[Link](https://www.researchgate.net/publication/389316228_Noise2Score3DUnsupervised_Tweedie%27s_Approach_for_Point_Cloud_Denoising)] Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising ◼️ `un.`
+- [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/32331)] You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN) [[code](https://github.com/git-guocc/ASDN)] ◼️ `dl.`
+- [[Link](https://arxiv.org/pdf/2503.09283)] Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising [[code](https://github.com/Bobby645/Noise2Score3D)] ◼️ `un.` `dl.`
+- [[Link](https://arxiv.org/pdf/2503.14558)] SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization [[code](https://github.com/sair-lab/SuperPC)] ◼️ `dl.` `res.` `oth.`
+- [[Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learning_Normals_of_Noisy_Points_by_Local_Gradient-Aware_Surface_Filtering_ICCV_2025_paper.pdf)] Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering (LGSF) [[code](https://github.com/LeoQLi/LGSF)] ◼️ `ne.` `dl.`
+- [[Link](https://arxiv.org/pdf/2508.11932)] Deep Learning For Point Cloud Denoising: A Survey ◼️ `surv.` `dl.`
+- [[Link](https://arxiv.org/pdf/2508.17011)] A Survey of Deep Learning-based Point Cloud Denoising ◼️ `surv.` `dl.`
+- [[Link](https://arxiv.org/pdf/2510.25210)] U-CAN: Unsupervised Point Cloud Denoising with Consistency-Aware Noise2Noise Matching [[code](https://gloriasze.github.io/U-CAN/)] ◼️ `un.` `dl.`
+
+# 2026
+- [[Link](https://arxiv.org/pdf/2605.26894)] SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising ◼️ `un.` `dl.`
+- [[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising [[code](https://github.com/cz-61/DSNet)] ◼️ `dl.`
 
 <a href="https://www.star-history.com/#agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left">
  <picture>

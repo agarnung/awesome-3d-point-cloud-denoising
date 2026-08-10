@@ -289,5 +289,3 @@ papers:
     url: "https://www.semanticscholar.org/paper/TPDNet%3A-A-point-cloud-data-denoising-method-for-and-Ran-Zhang/57d0835c22ce4ecf960ae8c2cdb7369a2b8fadde"
   - name: "Noise4Denoise: Leveraging Noise for Unsupervised Point Cloud Denoising"
     url: "https://www.semanticscholar.org/paper/Noise4Denoise%3A-Leveraging-noise-for-unsupervised-Wang-Liu/a575c8ce2e215de301c5e353b273f4658ccec820"
-  - name: ""
-    url: ""
