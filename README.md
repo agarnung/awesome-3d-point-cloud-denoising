@@ -36,12 +36,6 @@ _Star count automated from [Semantic Scholar](https://api.semanticscholar.org/ap
 - [[Link](https://people.csail.mit.edu/thouis/JDD03.pdf)] Non-Iterative, Feature-Preserving Mesh Smoothing [[code](https://github.com/Oponn-1/3D-Point-Cloud-Denoising/blob/master/smoother.c)] 🔥 `mesh.` `trad.`
 - [[Link](https://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours3_Document1_bilateral_mesh_denoising.pdf)] Bilateral mesh denoising [[code](https://github.com/bldeng/GuidedDenoising/tree/master)] 🔸 `trad.`
 
-# 2004
-...
-
-# 2005
-...
-
 # 2006
 - [[Link](https://www.scitepress.org/papers/2006/13589/13589.pdf)] Point cloud denoising using robust principal component analysis ◼️ `trad.`
 
