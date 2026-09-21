@@ -258,6 +258,9 @@ Based on Multi-view Image Reconstruction ◼️ `trad.`
 # 2026
 - [[Link](https://arxiv.org/pdf/2605.26894)] SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising ◼️ `un.` `dl.`
 - [[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising [[code](https://github.com/cz-61/DSNet)] ◼️ `dl.`
+- [[Link](https://doi.org/10.1016/j.cagd.2026.102622)] Total Generalized Variation Based Point Cloud Denoising ◼️ `var.`
+- [[Link](https://doi.org/10.1016/j.aei.2026.104449)] DeSnow-GNN: Spatiotemporal Graph Neural Network for Robust LiDAR Point Cloud Denoising in Adverse Weather ◼️ `dl.`
+- [[Link](https://doi.org/10.1109/TVCG.2025.3621633)] Deterministic Point Cloud Diffusion for Denoising ◼️ `dl.`
 
 <a href="https://www.star-history.com/#agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left">
  <picture>
